@@ -1,1 +1,124 @@
-the cow goes moo, cat goes meow
+Problématique : Être soi-même semble nous donner un accès privilégié à notre propre être. Mais la connaissance de soi peut-elle être limitée par des illusions, des biais ou l’influence d’autrui ? D’autres, en nous observant de l’extérieur, peuvent-ils mieux nous connaître ?
+
+Introduction
+
+	1. Définitions des termes :
+
+		• Me connaître : Avoir une compréhension claire et juste de ses pensées, émotions, désirs, motivations et limites.
+		• Le mieux placé : Celui qui détient les conditions les plus favorables pour accéder à une vérité ou une réalité.
+
+	2. Problème philosophique :
+
+		• Suis-je capable de me connaître totalement, ou suis-je limité par mes propres subjectivités et aveuglements ? L’intervention d’autrui est-elle nécessaire pour compléter cette connaissance ?
+
+	3. Annonce du plan :
+		• Trois axes : la connaissance de soi comme accès privilégié, les limites de cette connaissance, et la nécessité du regard d’autrui pour se connaître pleinement.
+
+	I. La connaissance de soi comme accès privilégié
+
+		A. La conscience immédiate de soi
+
+			1. Descartes – Méditations métaphysiques
+
+				• Citation : « Je pense, donc je suis. »
+				• Présentation : Descartes affirme que la conscience de soi est la base de toute certitude.
+				• Explication : Le sujet pensant est mieux placé que quiconque pour avoir accès à ses propres pensées, car elles lui appartiennent en propre.
+				• Exemple : Lorsqu’on ressent de la douleur, nul besoin d’un avis extérieur pour confirmer cette expérience intérieure.
+
+			2. Husserl – Méditations cartésiennes
+
+				• Citation : « La conscience est toujours conscience de quelque chose. »
+				• Présentation : Husserl soutient que la conscience est directement tournée vers soi et vers le monde, permettant une connaissance immédiate de ses actes intentionnels.
+				• Explication : En se réfléchissant elle-même, la conscience accède à son propre fonctionnement.
+				• Exemple : Un artiste qui ressent une inspiration soudaine peut en identifier la source grâce à l’introspection.
+
+		B. L’introspection comme méthode de connaissance
+
+			1. Bergson – L’Essai sur les données immédiates de la conscience
+
+				• Citation : « La conscience est avant tout mémoire. »
+				• Présentation : Pour Bergson, se connaître passe par une exploration de sa mémoire et de son vécu intérieur.
+				• Explication : L’introspection permet d’examiner son propre passé pour mieux comprendre ses choix et motivations.
+				• Exemple : Une personne analyse ses expériences passées pour comprendre pourquoi elle évite certaines situations.
+
+			2. Kant – Anthropologie du point de vue pragmatique
+
+				• Citation : « L’homme ne peut pas sortir de lui-même pour se connaître. »
+				• Présentation : Kant considère que la connaissance de soi repose sur une auto-observation réfléchie.
+				• Explication : En utilisant sa raison, l’homme est capable d’interpréter ses propres pensées et comportements.
+				• Exemple : Un étudiant réfléchit à ses succès et échecs scolaires pour comprendre ses méthodes de travail.
+
+	II. Les limites de la connaissance de soi
+
+		A. Les illusions et les biais personnels
+
+			1. Freud – Introduction à la psychanalyse
+
+				• Citation : « Le moi n’est pas maître dans sa propre maison. »
+				• Présentation : Freud révèle l’existence de l’inconscient, qui échappe au contrôle de la conscience.
+				• Explication : Nous ne sommes pas toujours conscients de nos motivations profondes, qui sont influencées par des désirs refoulés.
+				• Exemple : Une personne attribue son agressivité à la fatigue alors qu’elle provient d’un conflit non résolu.
+
+			2. Nietzsche – Le Gai Savoir
+
+				• Citation : « Nous restons pour nous-mêmes un objet inconnu. »
+				• Présentation : Nietzsche critique l’illusion d’une connaissance totale de soi, car nous sommes influencés par des valeurs extérieures et des instincts inconscients.
+				• Explication : Notre subjectivité empêche une vision claire et objective de nous-mêmes.
+				• Exemple : Quelqu’un se croit généreux, mais agit par besoin de reconnaissance.
+
+		B. La difficulté d’être juge de soi-même
+
+			1. Hume – Traité de la nature humaine
+
+				• Citation : « L’esprit humain est naturellement enclin à la partialité envers lui-même. »
+				• Présentation : Hume explique que nous avons tendance à justifier nos défauts ou à exagérer nos qualités.
+				• Explication : Cette partialité rend difficile une évaluation honnête de soi.
+				• Exemple : Une personne se croit tolérante mais rejette systématiquement des opinions opposées aux siennes.
+
+			2. Marx – L’Idéologie allemande
+
+				• Citation : « Les idées dominantes sont celles de la classe dominante. »
+				• Présentation : Marx souligne que nos pensées sont influencées par des idéologies qui nous dépassent.
+				• Explication : Ces conditionnements sociaux et économiques faussent notre perception de nous-mêmes.
+				• Exemple : Une personne adhère à des normes esthétiques sans se rendre compte de leur origine capitaliste.
+
+	III. Le rôle d’autrui dans la connaissance de soi
+
+		A. Autrui comme miroir de soi
+
+			1. Sartre – L’Être et le Néant
+
+				• Citation : « Autrui est le médiateur indispensable entre moi et moi-même. »
+				• Présentation : Sartre montre que nous prenons conscience de nous-mêmes à travers le regard d’autrui.
+				• Explication : Ce regard révèle des aspects de nous que nous ne percevons pas directement.
+				• Exemple : Une personne ne réalise son arrogance que lorsque quelqu’un lui en fait la remarque.
+
+			2. Marc Aurèle – Pensées pour moi-même
+
+				• Citation : « La perfection morale consiste à vivre en accord avec les autres. »
+				• Présentation : Marc Aurèle valorise la relation à autrui comme un moyen d’améliorer sa propre conscience.
+				• Explication : L’interaction avec autrui nous pousse à réfléchir sur nos actes et à nous ajuster.
+				• Exemple : Un ami proche nous aide à mieux comprendre nos erreurs dans une relation conflictuelle.
+
+		B. La nécessité d’un regard extérieur critique
+
+			1. Freud – Cinq leçons sur la psychanalyse
+
+				• Citation : « L’analyste devient le miroir dans lequel le patient se découvre. »
+				• Présentation : Pour Freud, l’aide d’un tiers permet de révéler des aspects de soi qui échappent à l’introspection.
+				• Explication : Un observateur extérieur peut identifier des schémas inconscients que nous ne percevons pas.
+				• Exemple : Un thérapeute met en lumière une peur profonde que le patient ignorait.
+
+			2. Hegel – Phénoménologie de l’esprit
+
+				• Citation : « La conscience de soi est reconnaissance réciproque. »
+				• Présentation : Hegel montre que la conscience de soi se construit dans une relation de reconnaissance avec autrui.
+				• Explication : Autrui nous permet de nous situer dans le monde et de définir notre identité.
+				• Exemple : Un individu prend conscience de ses compétences lorsqu’elles sont reconnues par ses pairs.
+Conclusion
+
+	1. Synthèse :
+		• Si je suis en première ligne pour accéder à mes pensées et émotions, mes propres biais et limites rendent cette connaissance partielle. Autrui, en offrant un regard extérieur, peut compléter et enrichir cette compréhension.
+
+	2. Ouverture :
+		• La question de la connaissance de soi pourrait être approfondie en examinant comment les nouvelles technologies et les réseaux sociaux influencent la perception que nous avons de nous-mêmes.
