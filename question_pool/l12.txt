@@ -1,0 +1,88 @@
+Introduction
+
+Amorce : Heidegger, dans La Question de la technique, met en garde contre une vision naïve de la technique comme simple moyen de libération. Il souligne qu’elle peut aussi asservir l’homme en le plaçant sous la domination du calcul et de l’efficacité.
+
+Définition des termes :
+
+    • Technique : Ensemble des procédés, outils et savoir-faire permettant à l’homme de transformer son environnement.
+    • Libération : Processus par lequel l’homme se soustrait aux contraintes naturelles, sociales ou existentielles.
+
+Problématique : La technique est-elle véritablement un facteur d’émancipation, ou engendre-t-elle de nouvelles formes de dépendance et d’aliénation ?
+
+Annonce du plan : Nous verrons d’abord comment la technique permet à l’homme de se libérer de certaines contraintes, avant d’analyser les nouvelles formes de servitude qu’elle induit, pour enfin interroger la possibilité d’un usage véritablement libérateur de la technique.
+
+I. La technique comme moyen de libération
+
+    1. Libération de la contrainte naturelle
+
+        • Illustration 1 : Bacon (Novum Organum)
+        • Présentation : Il voit la science et la technique comme des instruments de domination de la nature.
+        • Citation : « On ne commande à la nature qu’en lui obéissant. »
+        • Explication : En comprenant les lois de la nature, l’homme peut la maîtriser et se libérer de ses contraintes.
+
+        • Illustration 2 : Descartes (Discours de la méthode)
+        • Présentation : Il envisage la technique comme un moyen d’améliorer la condition humaine.
+        • Citation : « Nous rendre comme maîtres et possesseurs de la nature. »
+        • Explication : La technique libère l’homme du froid, de la faim, des maladies en lui permettant de transformer son environnement.
+
+    2. Libération des contraintes physiques et sociales
+
+        • Illustration 1 : Marx (Le Capital)
+        • Présentation : Il montre comment la mécanisation permet de réduire la pénibilité du travail.
+        • Explication : En automatisant certaines tâches, la technique libère du travail physique épuisant.
+
+        • Illustration 2 : Simondon (Du mode d’existence des objets techniques)
+        • Présentation : Il défend l’idée que la technique permet une meilleure adaptation de l’homme à son milieu.
+        • Explication : La technique, en perfectionnant ses outils, permet à l’homme d’être plus efficace et moins dépendant des contingences matérielles.
+
+II. Une nouvelle forme d’asservissement : la dépendance technique
+
+    1. L’aliénation par la technique
+
+        • Illustration 1 : Ellul (Le Système technicien)
+        • Présentation : Il critique l’autonomie croissante de la technique qui échappe au contrôle humain.
+        • Explication : Loin de libérer l’homme, la technique l’assujettit à ses propres logiques.
+
+        • Illustration 2 : Marx (Manuscrits de 1844)
+        • Présentation : Il analyse comment la machine, au lieu d’émanciper l’ouvrier, l’asservit.
+        • Explication : La division du travail technique aboutit à une dépossession de l’individu de son propre travail.
+
+    2. Une dépossession de la liberté individuelle
+
+        • Illustration 1 : Heidegger (La Question de la technique)
+        • Présentation : Il dénonce la technique moderne comme une « mise en demeure » de la nature et de l’homme.
+        • Explication : L’homme devient lui-même un rouage du système technicien et perd sa liberté de décision.
+
+        • Illustration 2 : Arendt (La Condition de l’homme moderne)
+        • Présentation : Elle critique la technique lorsqu’elle remplace l’action humaine par l’automatisation.
+        • Explication : L’homme, réduit à un consommateur passif, devient dépendant des outils qu’il crée.
+
+III. Peut-on concevoir un usage libérateur de la technique ?
+
+    1. La technique comme instrument d’émancipation sociale et intellectuelle
+
+        • Illustration 1 : Simondon (Du mode d’existence des objets techniques)
+        • Présentation : Il prône une meilleure compréhension des techniques par l’homme.
+        • Explication : En se réappropriant la technique, l’homme peut la rendre libératrice et non aliénante.
+
+        • Illustration 2 : Stiegler (La Technique et le Temps)
+        • Présentation : Il analyse la technique comme une « mémoire extérieure » qui augmente les capacités humaines.
+        • Explication : L’usage intelligent de la technique permet un accès élargi à la connaissance et à la culture.
+
+    2. La nécessité d’un contrôle éthique et politique sur la technique
+
+        • Illustration 1 : Jonas (Le Principe responsabilité)
+        • Présentation : Il souligne la nécessité d’une éthique de la technique pour préserver la liberté humaine.
+        • Explication : L’homme doit apprendre à encadrer et orienter la technique pour qu’elle serve réellement sa liberté.
+
+        • Illustration 2 : Habermas (La Technique et la science comme idéologie)
+        • Présentation : Il insiste sur l’importance du débat démocratique autour des choix techniques.
+        • Explication : Une technique contrôlée collectivement permettrait d’éviter ses dérives aliénantes.
+
+Conclusion
+
+• Synthèse : La technique apparaît d’abord comme un facteur de libération en affranchissant l’homme des contraintes naturelles et sociales. Pourtant, elle peut aussi engendrer une aliénation et une dépendance, menaçant ainsi la liberté humaine.
+
+• Réponse à la problématique : La technique ne libère véritablement que si l’homme conserve un pouvoir de décision sur elle. Sans réflexion éthique et politique, elle risque au contraire de devenir une force oppressive.
+
+• Ouverture : Cette question se pose aujourd’hui avec une acuité nouvelle à l’ère de l’intelligence artificielle et de l’automatisation : la technique actuelle est-elle en train de nous libérer ou de nous rendre encore plus dépendants ?

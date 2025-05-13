@@ -1,0 +1,82 @@
+Introduction
+
+Amorce : Tocqueville, dans De la démocratie en Amérique, observe que « les hommes veulent l’égalité dans la liberté, et s’ils ne peuvent l’obtenir, ils la veulent encore dans l’esclavage. » Cette réflexion met en évidence une possible tension entre liberté et égalité.
+
+Définition des termes :
+
+    • Liberté : Capacité d’agir selon sa propre volonté, sans contrainte excessive. Elle peut être individuelle (liberté d’action, de pensée) ou politique (droits fondamentaux, souveraineté).
+    • Égalité : Principe selon lequel les individus doivent être traités de la même manière, avec les mêmes droits et opportunités. Elle peut être juridique (égalité devant la loi), sociale (égalité des conditions) ou économique (égalité des ressources).
+
+Problématique : L’égalité favorise-t-elle ou menace-t-elle la liberté ? En cherchant à réduire les inégalités, ne risque-t-on pas d’imposer des contraintes qui limitent la liberté individuelle ?
+
+Annonce du plan : Nous verrons d’abord que l’égalité peut restreindre certaines formes de liberté, puis qu’elle peut aussi être une condition nécessaire à la liberté réelle, avant d’envisager une synthèse entre les deux notions.
+
+I. L’égalité comme menace pour la liberté
+
+    1. La liberté individuelle limitée par l’égalitarisme
+
+        • Illustration 1 : Tocqueville (De la démocratie en Amérique)
+        • Présentation : Il met en garde contre le « despotisme démocratique », où l’égalitarisme excessif conduit à un pouvoir central fort qui limite les libertés individuelles.
+        • Citation : « L’égalité prépare les hommes à tout souffrir, excepté l’aristocratie. »
+        • Explication : Une société qui cherche à effacer toute différence risque d’aboutir à un conformisme qui entrave la liberté.
+        • Illustration 2 : Ayn Rand (La Grève)
+        • Présentation : Elle critique l’interventionnisme étatique qui, au nom de l’égalité, entrave la liberté économique et la réussite individuelle.
+        • Explication : L’égalitarisme peut décourager l’initiative personnelle en supprimant les distinctions de mérite et d’effort.
+
+    2. L’égalité imposée par l’État comme contrainte autoritaire
+
+        • Illustration 1 : Hayek (La Route de la servitude)
+        • Présentation : Il critique les politiques économiques égalitaires qui nécessitent un contrôle excessif de l’État.
+        • Explication : En voulant égaliser les conditions, l’État limite la liberté d’entreprendre et de posséder.
+        • Illustration 2 : Orwell (1984)
+        • Présentation : Dans son roman dystopique, une égalité forcée conduit à un pouvoir totalitaire qui écrase toute liberté individuelle.
+        • Explication : L’égalité poussée à l’extrême peut devenir un outil de contrôle et de restriction des libertés fondamentales.
+
+II. L’égalité comme condition de la liberté réelle
+
+    1. L’égalité des droits comme fondement de la liberté
+
+        • Illustration 1 : Rousseau (Du Contrat social)
+        • Présentation : Il distingue la liberté naturelle (sans règles) de la liberté civile (protégée par des lois justes et égales pour tous).
+        • Citation : « L’obéissance à la loi qu’on s’est prescrite est liberté. »
+        • Explication : Une société où certains ont plus de droits que d’autres menace la liberté de tous.
+        • Illustration 2 : Kant (Fondements de la métaphysique des mœurs)
+        • Présentation : Il défend l’idée d’un droit universel fondé sur l’égalité morale de tous les individus.
+        • Explication : La liberté ne peut exister que si les lois garantissent une égalité fondamentale entre les citoyens.
+
+    2. L’égalité sociale et économique pour une liberté effective
+
+        • Illustration 1 : Marx (Le Capital)
+        • Présentation : Il critique la liberté formelle des sociétés capitalistes, où les inégalités économiques rendent certains plus libres que d’autres.
+        • Explication : Une véritable liberté nécessite une égalité matérielle qui évite la domination des uns par les autres.
+        • Illustration 2 : John Rawls (Théorie de la justice)
+        • Présentation : Il propose le principe de différence : les inégalités ne sont justes que si elles profitent aux plus défavorisés.
+        • Explication : Une société trop inégalitaire limite la liberté des plus vulnérables en les privant de choix réels.
+
+III. Une articulation possible entre liberté et égalité ?
+
+    1. La liberté dans l’égalité équilibrée
+
+        • Illustration 1 : Berlin (Deux concepts de la liberté)
+        • Présentation : Il distingue liberté négative (absence de contraintes) et liberté positive (capacité d’agir).
+        • Explication : Une égalité bien pensée garantit à chacun la possibilité d’exercer sa liberté.
+        • Illustration 2 : Sen (Développement et liberté)
+        • Présentation : Il montre que les inégalités économiques empêchent l’exercice réel de la liberté.
+        • Explication : Une répartition équilibrée des ressources permet à chacun d’être réellement libre.
+
+    2. L’égalité et la liberté dans le cadre démocratique
+
+        • Illustration 1 : Constant (De la liberté des Anciens comparée à celle des Modernes)
+        • Présentation : Il défend une liberté politique qui repose sur des institutions garantissant l’égalité des droits.
+        • Explication : Une démocratie équilibrée assure à la fois liberté et égalité sans que l’une n’écrase l’autre.
+        • Illustration 2 : L’exemple des démocraties scandinaves
+        • Présentation : Ces pays combinent un haut degré d’égalité sociale avec une forte protection des libertés individuelles.
+        • Explication : Un modèle de société peut concilier redistribution et liberté sans tomber dans l’autoritarisme.
+
+Conclusion
+
+• Synthèse : L’égalité peut menacer certaines formes de liberté lorsqu’elle est imposée de manière rigide ou autoritaire. Cependant, elle est aussi une condition nécessaire à une liberté réelle, car les inégalités excessives peuvent engendrer des dominations.
+
+• Réponse à la problématique : La liberté et l’égalité ne sont pas nécessairement opposées ; elles peuvent se renforcer mutuellement dans un cadre politique et social équilibré.
+
+• Ouverture : Cette réflexion soulève la question du rôle de la justice sociale : comment répartir les ressources et les droits pour garantir à chacun une liberté réelle ?

@@ -1,0 +1,90 @@
+Introduction
+
+Amorce : Kant, dans Qu’est-ce que les Lumières ?, définit la liberté de penser comme la sortie de l’homme de son état de tutelle, en insistant sur l’importance de l’usage critique de la raison.
+
+Définition des termes :
+
+    • Vérité : adéquation entre un discours et la réalité, ce qui est objectif et universellement valide.
+    • Liberté de penser : capacité à juger par soi-même, indépendamment des dogmes et des influences extérieures.
+
+Problématique : Si la vérité semble s’imposer à l’esprit comme une nécessité rationnelle, peut-elle être un frein à la liberté de pensée ? La liberté de penser consiste-t-elle à adhérer à la vérité ou à pouvoir douter et remettre en question les vérités établies ?
+
+Annonce du plan : Nous verrons d’abord comment la vérité peut sembler restreindre la liberté de penser, avant de montrer qu’elle est en réalité une condition de cette liberté, pour enfin interroger la manière dont la pensée peut concilier recherche de la vérité et autonomie intellectuelle.
+
+I. La vérité peut apparaître comme une contrainte à la liberté de penser
+
+    1. La vérité impose des limites à la pensée
+
+        • Illustration 1 : Spinoza (L’Éthique)
+        • Présentation : Il défend une conception déterministe du monde, où la vérité est une nécessité.
+        • Citation : « Les hommes se croient libres parce qu’ils sont conscients de leurs désirs et ignorants des causes qui les déterminent. »
+        • Explication : La vérité sur le déterminisme limite l’illusion d’une pensée totalement libre.
+
+        • Illustration 2 : Auguste Comte (Cours de philosophie positive)
+        • Présentation : Il considère que les vérités scientifiques remplacent les croyances et imposent un cadre rationnel.
+        • Explication : La pensée libre ne peut pas s’opposer aux faits établis par la science, ce qui pourrait être perçu comme une contrainte.
+
+    2. Le dogmatisme et l’imposition de la vérité comme obstacles à la liberté de penser
+
+        • Illustration 1 : Nietzsche (Par-delà bien et mal)
+        • Présentation : Il critique les vérités établies comme des illusions imposées par la société.
+        • Citation : « Les vérités sont des illusions dont on a oublié qu’elles le sont. »
+        • Explication : Les vérités absolues peuvent étouffer la liberté critique de penser.
+
+        • Illustration 2 : Bourdieu (La domination masculine)
+        • Présentation : Il montre que certaines « vérités » sociales sont des constructions idéologiques.
+        • Explication : Accepter ces vérités sans les questionner revient à perdre son autonomie intellectuelle.
+
+II. La vérité est une condition de la liberté de penser
+
+    1. Penser librement, ce n’est pas nier la vérité, mais l’atteindre
+
+        • Illustration 1 : Descartes (Discours de la méthode)
+        • Présentation : Il établit un doute méthodique pour parvenir à une vérité indubitable.
+        • Citation : « Je pense, donc je suis. »
+        • Explication : La quête de vérité est un exercice de liberté de penser et non une contrainte.
+
+        • Illustration 2 : Kant (Critique de la raison pure)
+        • Présentation : Il montre que la raison autonome cherche la vérité au lieu de se soumettre aux préjugés.
+        • Explication : La liberté de penser ne signifie pas nier la vérité, mais l’atteindre par l’usage critique de la raison.
+
+    2. Une liberté sans vérité devient un relativisme stérile
+
+        • Illustration 1 : Platon (La République, mythe de la caverne)
+        • Présentation : Il illustre la libération de l’ignorance par la connaissance de la vérité.
+        • Explication : La liberté véritable consiste à s’affranchir des illusions pour voir la vérité en face.
+
+        • Illustration 2 : Hannah Arendt (Vérité et politique)
+        • Présentation : Elle critique le relativisme post-moderne qui met en danger la liberté de penser.
+        • Explication : Une pensée libre qui nie la vérité devient un simple jeu d’opinions manipulables.
+
+III. Comment concilier quête de vérité et autonomie de la pensée ?
+
+    1. La liberté de penser implique un rapport critique à la vérité
+
+        • Illustration 1 : Popper (La Logique de la découverte scientifique)
+        • Présentation : Il défend la falsifiabilité des théories scientifiques comme principe de progrès.
+        • Explication : La vérité n’est pas un dogme, mais un idéal régulateur que l’on doit toujours remettre en question.
+
+        • Illustration 2 : Ricoeur (La Métaphore vive)
+        • Présentation : Il montre que le langage et l’interprétation ouvrent des perspectives multiples sur la vérité.
+        • Explication : La liberté de penser ne consiste pas à rejeter la vérité, mais à en explorer les différentes dimensions.
+
+    2. La vérité comme horizon de la pensée libre
+
+        • Illustration 1 : Hegel (Phénoménologie de l’esprit)
+        • Présentation : Il voit la vérité comme le fruit d’un processus dialectique de la pensée.
+        • Explication : La liberté de penser ne s’oppose pas à la vérité, mais progresse en la construisant.
+
+        • Illustration 2 : Sartre (L’Existentialisme est un humanisme)
+        • Présentation : Il défend l’idée que l’homme est libre de donner du sens à la vérité qu’il découvre.
+        • Explication : La vérité ne s’impose pas de l’extérieur, elle est le produit d’une pensée en quête de sens.
+
+Conclusion
+
+• Synthèse : La vérité peut sembler limiter la liberté de penser en imposant des contraintes rationnelles ou en devenant un dogme. Cependant, elle est aussi ce qui permet à la pensée d’être réellement libre, car une liberté sans vérité devient un relativisme vide de sens.
+
+• Réponse à la problématique : Reconnaître la vérité ne signifie pas renoncer à la liberté de penser, mais exercer pleinement cette liberté en recherchant une vérité fondée et critique.
+
+• Ouverture : Dans une époque marquée par les fake news et la désinformation, comment concilier liberté d’opinion et exigence de vérité ?
+

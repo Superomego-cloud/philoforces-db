@@ -1,0 +1,88 @@
+Introduction
+
+Amorce : Heidegger, dans La Question de la technique, met en garde contre la domination du progrès technique, qui tend à réduire l’homme à un simple rouage du système technicien.
+
+Définition des termes :
+
+    • Développement technique : progrès des outils, machines et technologies visant à améliorer les conditions de vie et de production.
+    • Liberté : capacité d’agir selon sa volonté, sans contrainte extérieure. Elle peut être politique, morale ou existentielle.
+
+Problématique : Le progrès technique élargit-il le champ de la liberté humaine ou, au contraire, conduit-il à une aliénation qui menace notre autonomie ?
+
+Annonce du plan : Nous verrons d’abord en quoi le développement technique favorise la liberté, avant d’analyser les risques d’asservissement qu’il engendre, pour enfin interroger la possibilité d’un usage maîtrisé et émancipateur de la technique.
+
+I. Le développement technique comme vecteur d’émancipation
+
+    1. La technique libère l’homme des contraintes naturelles
+
+        • Illustration 1 : Bacon (Novum Organum)
+        • Présentation : Il voit la science et la technique comme des instruments de domination de la nature.
+        • Citation : « On ne commande à la nature qu’en lui obéissant. »
+        • Explication : Grâce à la technique, l’homme se libère de certaines contraintes matérielles (faim, froid, maladies).
+
+        • Illustration 2 : Descartes (Discours de la méthode)
+        • Présentation : Il considère la technique comme un moyen d’améliorer la condition humaine.
+        • Citation : « Nous rendre comme maîtres et possesseurs de la nature. »
+        • Explication : Le progrès technique accroît le pouvoir de l’homme et lui permet d’être plus autonome face aux forces naturelles.
+
+    2. La technique permet de libérer du travail pénible
+
+        • Illustration 1 : Marx (Le Capital)
+        • Présentation : Il souligne comment l’industrialisation réduit la pénibilité du travail.
+        • Explication : Les machines permettent de diminuer les tâches les plus dures et libèrent du temps pour d’autres activités.
+
+        • Illustration 2 : Simondon (Du mode d’existence des objets techniques)
+        • Présentation : Il défend l’idée que l’évolution technique permet à l’homme de mieux s’adapter à son environnement.
+        • Explication : Loin de l’asservir, la technique lui donne plus de contrôle sur son existence.
+
+II. Le développement technique, source d’aliénation et de nouvelles contraintes
+
+    1. La technique peut engendrer une dépendance et une perte d’autonomie
+
+        • Illustration 1 : Ellul (Le Système technicien)
+        • Présentation : Il critique l’autonomie croissante de la technique qui échappe au contrôle humain.
+        • Explication : L’homme devient dépendant des systèmes techniques qu’il ne maîtrise plus.
+
+        • Illustration 2 : Heidegger (La Question de la technique)
+        • Présentation : Il considère que la technique moderne réduit l’homme à une simple ressource dans un système globalisé.
+        • Explication : Au lieu de libérer, la technique aliène en imposant ses propres logiques et en restreignant la spontanéité humaine.
+
+    2. La technique comme instrument de contrôle et de domination
+
+        • Illustration 1 : Foucault (Surveiller et punir)
+        • Présentation : Il montre comment les technologies sont utilisées pour surveiller et discipliner les individus.
+        • Explication : Le développement de la surveillance numérique limite la liberté individuelle et renforce le contrôle social.
+
+        • Illustration 2 : Arendt (La Condition de l’homme moderne)
+        • Présentation : Elle critique la manière dont la technique favorise une société de consommation passive.
+        • Explication : L’homme, réduit à un consommateur dépendant de la technologie, perd son autonomie de pensée et d’action.
+
+III. Un usage réfléchi de la technique peut-il préserver la liberté ?
+
+    1. La nécessité d’un encadrement éthique et politique de la technique
+
+        • Illustration 1 : Jonas (Le Principe responsabilité)
+        • Présentation : Il défend une éthique de la technique fondée sur la responsabilité pour préserver la liberté humaine.
+        • Explication : Sans réflexion éthique, la technique risque de devenir une menace irréversible pour l’homme.
+
+        • Illustration 2 : Habermas (La Technique et la science comme idéologie)
+        • Présentation : Il insiste sur la nécessité d’un débat démocratique autour des choix techniques.
+        • Explication : Une régulation politique et collective permettrait de garantir que la technique reste au service de la liberté.
+
+    2. Se réapproprier la technique pour en faire un outil d’émancipation
+
+        • Illustration 1 : Simondon (Du mode d’existence des objets techniques)
+        • Présentation : Il prône une meilleure compréhension des techniques par l’homme.
+        • Explication : La liberté passe par une maîtrise et une connaissance approfondie des outils techniques.
+
+        • Illustration 2 : Stiegler (La Technique et le Temps)
+        • Présentation : Il voit la technique comme une « mémoire extérieure » qui peut enrichir l’humanité si elle est bien utilisée.
+        • Explication : Loin d’être une menace, la technique peut être un facteur d’autonomie intellectuelle et culturelle.
+
+Conclusion
+
+• Synthèse : Le développement technique peut être à la fois un facteur de libération et une source d’aliénation. Il libère l’homme des contraintes naturelles et de certaines formes de travail, mais peut aussi restreindre son autonomie en créant de nouvelles dépendances et en favorisant le contrôle social.
+
+• Réponse à la problématique : La technique n’est une menace pour la liberté que si elle est laissée à elle-même, sans régulation ni réflexion éthique. C’est la manière dont elle est utilisée qui détermine son impact sur notre autonomie.
+
+• Ouverture : À l’ère de l’intelligence artificielle et du transhumanisme, une nouvelle question se pose : la technique risque-t-elle de modifier la nature même de l’homme, et donc de redéfinir ce qu’être libre signifie ?
