@@ -1,0 +1,94 @@
+Introduction
+
+Amorce: Dans Le Système technicien, Jacques Ellul affirme que « la technique a son propre dynamisme, elle échappe à toute régulation humaine ». Cette idée met en évidence l’autonomie du progrès technique et questionne son impact sur le bonheur humain.
+
+Analyse des termes du sujet
+
+    • La technique : ensemble des savoir-faire et des outils permettant de modifier le monde en vue d’un certain résultat. Elle inclut aussi bien les technologies modernes que les procédés artisanaux ou scientifiques.
+    • Garantir : assurer de manière certaine, sans faille ni exception.
+    • Le bonheur : état de satisfaction durable, souvent défini par l’absence de souffrance (Épicure), l’accomplissement de soi (Aristote), ou encore l’accès à une vérité intérieure (Spinoza).
+
+Problématisation: Si la technique améliore les conditions de vie (santé, confort, communication), peut-elle pour autant assurer un bonheur véritable, ou risque-t-elle de n’apporter qu’un bien-être superficiel et fragile ?
+
+Enjeu: Il s’agit d’interroger le rapport entre progrès technique et bonheur : la technique est-elle une simple condition du bonheur, ou peut-elle en être la garantie absolue ?
+
+Annonce du plan: Nous verrons d’abord comment la technique semble favoriser le bonheur en supprimant les obstacles à son accès (I). Ensuite, nous examinerons les limites de cette idée, en montrant que la technique engendre aussi des nouvelles formes de malheur (II). Enfin, nous nous demanderons si le bonheur véritable ne réside pas ailleurs que dans la technique (III).
+
+I – La technique comme instrument de facilitation du bonheur
+
+    A – La technique libère l’homme des contraintes matérielles et physiques
+
+        • Idée : En supprimant la douleur, la fatigue et la pénurie, la technique permet d’accéder plus facilement au bonheur.
+        • Philosophe 1 : Épicure, Lettre à Ménécée
+        • Citation : « Quand donc nous disons que le plaisir est le but de la vie, nous ne parlons pas des plaisirs des débauchés, mais de l’absence de souffrance dans le corps et de trouble dans l’âme. »
+        • Explication : Épicure définit le bonheur comme ataraxie (absence de troubles). La technique, en éliminant la douleur (médecine, confort), favorise cet état.
+        • Exemple : La médecine moderne (antidouleurs, chirurgie avancée) réduit la souffrance physique et améliore la qualité de vie.
+
+        • Philosophe 2 : Descartes, Discours de la méthode
+        • Citation : « Nous rendre comme maîtres et possesseurs de la nature. »
+        • Explication : Grâce à la science et à la technique, l’homme domine la nature et peut améliorer ses conditions d’existence.
+        • Exemple : L’agriculture intensive permet de lutter contre la famine et d’assurer une sécurité alimentaire.
+
+    B – La technique permet l’accès à plus de loisirs et d’épanouissement personnel
+
+        • Idée : En réduisant le travail et en facilitant la communication et le divertissement, la technique libère du temps pour le bonheur.
+        • Philosophe 1 : Aristote, Éthique à Nicomaque
+        • Citation : « Le bonheur est une activité conforme à la vertu, accomplie dans une vie complète. »
+        • Explication : Le bonheur repose sur la possibilité d’agir librement selon sa raison et sa vertu. La technique, en réduisant les tâches pénibles, permet cette liberté.
+        • Exemple : L’automatisation du travail diminue la pénibilité et libère du temps pour l’éducation et la culture.
+
+        • Philosophe 2 : Pascal, Pensées
+        • Citation : « Tout le malheur des hommes vient d’une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre. »
+        • Explication : Pascal critique la distraction qui éloigne de la réflexion intérieure. Pourtant, la technique offre aussi des moyens d’élévation intellectuelle.
+        • Exemple : L’accès à la culture via Internet permet un enrichissement personnel sans précédent.
+
+II – La technique engendre de nouvelles formes de malheur
+
+    A – La technique aliène et déshumanise l’homme
+
+        • Idée : En automatisant le travail et en remplaçant les relations humaines par des machines, la technique génère une perte de sens.
+        • Philosophe 1 : Karl Marx, Le Capital
+        • Citation : « Dans la fabrique, l’homme est un appendice de la machine. »
+        • Explication : La mécanisation du travail prive l’homme de sa créativité et le réduit à une fonction.
+        • Exemple : Le taylorisme et l’aliénation des ouvriers dans les usines modernes.
+
+        • Philosophe 2 : Heidegger, La question de la technique
+        • Citation : « L’essence de la technique n’a rien de technique. »
+        • Explication : Heidegger montre que la technique modifie notre manière d’être au monde et nous enferme dans une vision utilitariste.
+        • Exemple : L’hyperconnexion aux écrans réduit la capacité de concentration et nuit aux relations humaines authentiques.
+
+    B – La technique crée des risques et des dépendances
+
+        • Idée : Le progrès technique apporte des dangers (écologie, surveillance, guerre) qui compromettent le bonheur.
+        • Philosophe 1 : Hans Jonas, Le Principe responsabilité
+        • Citation : « Agis de façon que les effets de ton action soient compatibles avec la permanence d’une vie authentiquement humaine sur terre. »
+        • Explication : La technique doit être maîtrisée pour ne pas compromettre l’avenir de l’humanité.
+        • Exemple : Le réchauffement climatique causé par l’industrialisation met en péril la qualité de vie des générations futures.
+
+        • Philosophe 2 : Aldous Huxley, Le Meilleur des Mondes
+        • Citation : « Un monde parfait est un monde sans liberté. »
+        • Explication : Huxley imagine une société où la technique assure un bonheur artificiel, mais au prix de la liberté et de l’humanité.
+        • Exemple : L’essor des intelligences artificielles peut mener à une surveillance de masse et à la manipulation des individus.
+
+III – Le bonheur véritable dépasse la technique
+
+    A – Le bonheur est un état intérieur, indépendant des conditions extérieures
+
+        • Idée : Le bonheur repose davantage sur une disposition de l’âme que sur les biens matériels.
+        • Philosophe 1 : Spinoza, Éthique
+        • Citation : « La béatitude n’est pas la récompense de la vertu, mais la vertu elle-même. »
+        • Explication : Le vrai bonheur vient de la connaissance et de la compréhension du monde.
+        • Exemple : Un sage peut être heureux même dans des conditions difficiles.
+
+        • Philosophe 2 : Bouddha, Sermon de Bénarès
+        • Citation : « Le désir est la cause de la souffrance. »
+        • Explication : Si la technique alimente des désirs illimités, elle ne fait qu’accroître la frustration.
+        • Exemple : L’obsession pour la nouveauté technologique crée une insatisfaction perpétuelle.
+
+Conclusion
+
+• Synthèse : La technique facilite le bonheur en supprimant certains obstacles, mais elle engendre aussi de nouvelles souffrances et ne garantit pas un bonheur véritable.
+
+• Réponse à la problématique : Le bonheur ne peut être garanti par la technique car il repose sur une dimension intérieure et éthique.
+
+• Ouverture : Peut-on alors envisager un progrès technique éthique qui vise véritablement le bonheur humain, et non la seule amélioration matérielle ?

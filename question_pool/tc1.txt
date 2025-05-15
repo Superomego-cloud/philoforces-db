@@ -1,0 +1,105 @@
+Introduction
+
+1. Amorce : La technique accompagne l’histoire humaine depuis ses origines, des outils préhistoriques à l’intelligence artificielle. Elle est souvent considérée comme ce qui distingue l’homme des autres espèces, lui permettant de modifier son environnement.
+
+2. Problématisation : Cependant, l’observation du règne animal montre que certaines espèces utilisent aussi des techniques rudimentaires. De plus, la technique semble aujourd’hui échapper au contrôle de l’homme, questionnant son rapport à celle-ci. Dès lors, peut-on encore dire que la technique est le propre de l’homme ?
+
+3. Annonce du plan : Nous verrons d’abord en quoi la technique semble une spécificité humaine. Ensuite, nous montrerons que cette thèse est contestable, avant d’interroger la manière dont la technique transforme l’homme lui-même.
+
+I. La technique, un trait spécifiquement humain
+
+    1. La technique comme prolongement de l’intelligence humaine
+
+    	• Idée principale : L’homme est un être technique par nature, car il utilise la raison pour créer des outils et transformer son environnement.
+    	• Philosophes et références :
+
+        	• Claude Lévi-Strauss, La pensée sauvage : Il distingue la pensée « sauvage » et la pensée scientifique, montrant que l’homme, même primitif, structure son monde par des techniques élaborées.
+        	• André Leroi-Gourhan, Le geste et la parole : Il explique que le développement du langage et de la main ont permis à l’homme de se différencier par la technique.
+
+    	• Exemples :
+
+        	• Les premières armes et outils taillés dès la Préhistoire montrent que la technique est liée à la survie et à l’intelligence humaine.
+        	• La révolution industrielle illustre la capacité humaine à perfectionner sans cesse ses techniques.
+
+    2. La technique comme phénomène social et culturel
+
+        • Idée principale : La technique ne se réduit pas à une simple fabrication d’objets, elle s’inscrit dans un cadre social et symbolique propre à l’homme.
+        • Philosophes et références :
+
+            • Marcel Mauss, Les techniques du corps : Il montre que les gestes techniques sont appris et transmis, faisant de la technique un fait social.
+            • Gabriel Tarde, Les lois de l’imitation : Il insiste sur le rôle de l’imitation dans la diffusion des techniques, ce qui implique une dimension culturelle.
+
+        • Exemples :
+
+            • L’écriture et l’imprimerie sont des techniques qui ont permis la transmission des savoirs.
+            • L’architecture et l’ingénierie montrent que la technique n’est pas seulement utilitaire, mais aussi esthétique et culturelle.
+
+Transition : Toutefois, si la technique est un fait humain, certains phénomènes remettent en cause son exclusivité à l’homme.
+
+II. La technique n’est pas exclusivement humaine
+
+    1. L’existence de techniques animales
+
+    	• Idée principale : De nombreuses espèces animales utilisent des techniques pour s’adapter à leur environnement.
+
+    	• Philosophes et références :
+
+        	• Claude Lévi-Strauss : Il souligne que la frontière entre nature et culture est plus floue qu’on ne le pense, et que certains comportements animaux relèvent déjà d’une technique.
+        	• Des observations éthologiques modernes montrent que l’usage d’outils n’est pas limité à l’homme.
+
+    	• Exemples :
+
+        	• Les chimpanzés fabriquent des bâtons pour attraper des insectes.
+        	• Les corbeaux utilisent des brindilles pour atteindre leur nourriture.
+
+    2. La technique échappe-t-elle à l’homme ?
+
+    	• Idée principale : Avec l’essor des machines autonomes et de l’intelligence artificielle, la technique semble ne plus être le propre de l’homme, mais suivre son propre développement.
+    	• Philosophes et références :
+
+        	• Martin Heidegger, La question de la technique : Il explique que la technique moderne n’est plus un simple outil, mais un mode d’existence qui s’impose à l’homme.
+        	• Oswald Spengler, L’Homme et la technique : Il voit la technique comme une force qui dépasse la volonté humaine et qui conduit à une civilisation mécanisée.
+
+    	• Exemples :
+
+        	• L’intelligence artificielle, qui peut apprendre et résoudre des problèmes sans intervention humaine directe.
+        	• L’automatisation et la robotisation, qui remplacent de plus en plus les décisions humaines.
+
+Transition : La technique, si elle n’est pas exclusivement humaine, transforme néanmoins profondément l’humanité elle-même.
+
+III. La technique transforme l’homme et redéfinit son identité
+
+    1. L’homme devient lui-même un produit de la technique
+
+        • Idée principale : L’homme ne maîtrise plus totalement la technique ; c’est elle qui façonne son mode de vie et sa pensée.
+        • Philosophes et références :
+
+            • Heidegger, La question de la technique : Il montre que la technique moderne n’est pas neutre, mais structure notre rapport au monde.
+            • Jean Grimaldi, L’homme technique : Il insiste sur le fait que l’homme se définit de plus en plus par ses propres créations techniques.
+
+        • Exemples :
+
+            • L’essor du numérique et des réseaux sociaux modifie nos comportements et nos interactions.
+            • La médecine moderne transforme le corps humain (prothèses, implants, génétique).
+
+    2. La technique comme dépassement de l’homme ?
+
+        • Idée principale : La technique pourrait même conduire à un dépassement de l’humain, voire à une humanité nouvelle (transhumanisme).
+        • Philosophes et références :
+
+            • Oswald Spengler : Il voit dans la technique une puissance qui pourrait entraîner la fin de l’homme tel qu’il est.
+            • Jean-François Flam, L’utopie technologique : Il explore les conséquences d’un monde où la technique remplacerait progressivement l’humain.
+
+        • Exemples :
+
+            • Le transhumanisme et les biotechnologies qui visent à améliorer l’homme par la technique.
+            • Les débats éthiques sur l’intelligence artificielle et le risque d’une autonomie totale des machines.
+
+Conclusion
+
+• Synthèse : La technique a longtemps été considérée comme le propre de l’homme, car elle repose sur la culture et la transmission. Pourtant, l’observation des techniques animales et l’évolution des technologies modernes montrent que cette exclusivité est contestable.
+
+• Réponse ferme : La technique n’est pas strictement humaine, mais elle est le domaine où l’humanité se transforme et se redéfinit constamment.
+
+• Ouverture : Dès lors, l’homme est-il condamné à être dépassé par sa propre technique ?
+

@@ -1,0 +1,94 @@
+Introduction
+
+Amorce: Hans Jonas, dans Le Principe responsabilité, affirme : « Agis de façon que les effets de ton action soient compatibles avec la permanence d’une vie authentiquement humaine sur terre. » Cette maxime illustre l’idée selon laquelle le progrès technique impose de nouvelles responsabilités morales.
+
+Analyse des termes du sujet:
+
+    • Inventions techniques : Ensemble des découvertes et innovations modifiant notre rapport au monde, qu’il s’agisse des outils primitifs, de la révolution industrielle ou des technologies modernes (intelligence artificielle, nucléaire, biotechnologies).
+    • Élargi : Supposer un changement quantitatif et/ou qualitatif dans l’étendue de nos obligations.
+    • Devoirs : Obligations morales, qu’elles relèvent d’un cadre juridique, éthique ou philosophique, envers autrui, la société ou même la nature.
+
+Problématisation: Le développement technique semble naturellement étendre nos devoirs en introduisant de nouvelles responsabilités (écologiques, éthiques, sociales). Mais peut-on dire que ces devoirs sont véritablement nouveaux ou sont-ils seulement une reformulation d’obligations préexistantes ?
+
+Enjeu: Il s’agit de déterminer si le progrès technique modifie la nature même de nos responsabilités ou s’il ne fait que nous confronter à des devoirs que nous avions déjà sous une autre forme.
+
+Annonce du plan: Nous verrons d’abord comment les inventions techniques ont élargi notre champ de responsabilités en créant de nouvelles situations morales (I). Ensuite, nous analyserons si ces obligations ne sont en réalité qu’une reformulation de devoirs déjà existants (II). Enfin, nous nous demanderons si la technique ne devrait pas être subordonnée à une éthique capable de guider son développement (III).
+
+I – La technique a élargi notre champ de responsabilités en créant de nouvelles obligations
+
+    A – La technique nous impose de nouvelles responsabilités écologiques et sociales
+
+        • Idée : L’ampleur des transformations techniques nous oblige à prendre en compte des conséquences globales et à long terme.
+        • Philosophe 1 : Hans Jonas, Le Principe responsabilité
+        • Citation : « La puissance technique a transformé la nature même de nos actions. »
+        • Explication : Le progrès technique nous confronte à des effets irréversibles sur l’environnement et les générations futures, ce qui élargit notre responsabilité.
+        • Exemple : Le changement climatique causé par l’industrialisation implique un devoir écologique inédit.
+
+        • Philosophe 2 : Ulrich Beck, La société du risque
+        • Citation : « Nous vivons dans une société où le progrès lui-même génère des risques. »
+        • Explication : La technique crée de nouveaux risques globaux (nucléaire, pollution, crises économiques) qui nous imposent une vigilance accrue.
+        • Exemple : L’obligation morale d’encadrer les avancées en intelligence artificielle pour éviter les dérives éthiques.
+
+    B – La technique crée des responsabilités envers les êtres non humains
+
+        • Idée : Les progrès techniques nous imposent des devoirs envers des entités auparavant exclues de la considération morale.
+        • Philosophe 1 : Peter Singer, La Libération animale
+        • Citation : « La distinction entre les humains et les animaux ne justifie pas l’exploitation de ces derniers. »
+        • Explication : Les techniques d’élevage industriel et les expérimentations scientifiques nous obligent à reconsidérer notre devoir envers les animaux.
+        • Exemple : La question de l’éthique dans les expérimentations médicales sur les animaux.
+
+        • Philosophe 2 : Bruno Latour, Face à Gaïa
+        • Citation : « Nous devons apprendre à penser avec la Terre. »
+        • Explication : Les avancées technologiques nous forcent à étendre notre responsabilité aux écosystèmes et aux entités naturelles.
+        • Exemple : L’extension des droits juridiques aux fleuves et aux forêts dans certains pays.
+
+II – Nos devoirs sont-ils réellement nouveaux ou simplement reformulés ?
+
+    A – La technique ne fait qu’amplifier des devoirs préexistants
+
+        • Idée : Les devoirs techniques ne sont que des variations modernes d’obligations morales universelles (justice, bienveillance, prudence).
+        • Philosophe 1 : Aristote, Éthique à Nicomaque
+        • Citation : « Toute vertu est un juste milieu entre deux excès. »
+        • Explication : La prudence et la responsabilité ont toujours été des valeurs éthiques fondamentales, appliquées aujourd’hui aux enjeux technologiques.
+        • Exemple : La régulation des OGM repose sur la prudence, valeur déjà présente chez Hippocrate dans la médecine antique.
+
+        • Philosophe 2 : Kant, Fondements de la métaphysique des mœurs
+        • Citation : « Agis seulement d’après la maxime qui fait que tu peux vouloir en même temps qu’elle devienne une loi universelle. »
+        • Explication : Nos devoirs techniques ne sont qu’une application du principe d’universalité, qui existait avant le progrès technologique.
+        • Exemple : Le devoir de ne pas polluer rejoint le principe moral de ne pas nuire à autrui.
+
+    B – La technique peut aussi nous éloigner de nos devoirs fondamentaux
+
+        • Idée : Le progrès technique risque d’éclipser certaines obligations éthiques en les remplaçant par une logique d’efficacité.
+        • Philosophe 1 : Heidegger, La question de la technique
+        • Citation : « L’essence de la technique n’a rien de technique. »
+        • Explication : La technique tend à devenir une fin en soi, occultant la réflexion morale.
+        • Exemple : La course au transhumanisme questionne la finalité de nos devoirs envers l’humanité.
+
+        • Philosophe 2 : Günther Anders, L’Obsolescence de l’homme
+        • Citation : « Nous avons dépassé notre capacité d’imagination face aux conséquences de nos actes. »
+        • Explication : L’ampleur des innovations techniques nous empêche de mesurer pleinement notre responsabilité.
+        • Exemple : L’armement nucléaire pose des dilemmes moraux que nous ne sommes pas préparés à assumer.
+
+III – Vers une nouvelle éthique de la technique
+
+    A – La nécessité d’une régulation éthique des innovations techniques
+
+        • Idée : Il faut instaurer un cadre moral et juridique pour orienter la technique vers le bien commun.
+        • Philosophe 1 : Hans Jonas, Le Principe responsabilité
+        • Citation : « Il faut une éthique du futur pour encadrer la puissance de la technique. »
+        • Explication : Nos responsabilités doivent être repensées pour inclure les générations futures.
+        • Exemple : La création du principe de précaution en droit international.
+
+        • Philosophe 2 : John Rawls, Théorie de la justice
+        • Citation : « Une société juste est celle qui garantit les libertés fondamentales de chacun. »
+        • Explication : La justice sociale doit être intégrée aux décisions technologiques.
+        • Exemple : L’accès équitable aux progrès médicaux (ex. vaccins).
+
+Conclusion
+
+• Synthèse : La technique élargit nos responsabilités en introduisant de nouveaux défis, mais ces obligations prolongent des principes éthiques anciens.
+
+• Réponse à la problématique : Nos devoirs évoluent avec la technique, mais ils ne sont pas fondamentalement nouveaux. Ce qui change, c’est l’ampleur et la complexité des dilemmes posés.
+
+• Ouverture : Si la technique transforme nos devoirs, ne devrait-on pas alors anticiper ses effets pour éviter d’être constamment dépassés par nos propres créations ?
