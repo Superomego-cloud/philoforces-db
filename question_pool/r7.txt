@@ -1,0 +1,81 @@
+Introduction
+
+1. Amorce: « Le bon sens est la chose du monde la mieux partagée » écrivait Descartes dans Discours de la méthode. Par cette affirmation, il souligne que la capacité à raisonner est universelle, mais nécessite d’être bien guidée pour conduire à des jugements justes.
+
+2. Entrée dans le sujet et définition des termes: Le verbe « juger » désigne l’acte par lequel on évalue une situation, une action ou une idée afin de prendre une décision ou d’émettre une opinion. Raisonner, quant à lui, consiste à enchaîner des idées de manière logique pour parvenir à une conclusion. Se demander si juger nécessite seulement d’apprendre à raisonner suppose d’examiner si cette capacité intellectuelle suffit à formuler des jugements justes, ou si d’autres facultés telles que l’expérience, la sensibilité ou la morale sont également indispensables.
+
+3. Présentation des deux thèses: On pourrait penser que la maîtrise du raisonnement est suffisante pour juger correctement, puisque la logique permet d’éviter les erreurs et les préjugés. Cependant, il semble que le jugement exige aussi d’autres compétences, comme l’intuition, l’expérience ou la sagesse.
+
+4. Problématique (reformulée): Le raisonnement est-il la seule condition nécessaire pour porter des jugements justes, ou faut-il mobiliser d’autres facultés humaines ?
+
+5. Importance du sujet: Ce questionnement est crucial, car il touche autant à notre capacité à prendre des décisions éclairées qu’à notre aptitude à comprendre autrui et à agir avec discernement.
+
+6. Annonce du plan: Nous verrons d’abord que le raisonnement est une condition essentielle pour juger de manière rigoureuse. Ensuite, nous montrerons que d’autres facultés sont parfois nécessaires pour compléter la raison. Enfin, nous examinerons les dangers d’un jugement qui se reposerait uniquement sur la rationalité.
+ 
+I. Juger nécessite d’apprendre à raisonner, car la raison permet de distinguer le vrai du faux
+
+    A. Le raisonnement garantit la cohérence et évite les erreurs logiques
+
+        • Idée : Le raisonnement structuré permet de vérifier la validité des idées et d’écarter les jugements infondés.
+        • Illustration 1 : Descartes, Discours de la méthode : « Il ne faut jamais recevoir aucune chose pour vraie que je ne la connusse évidemment être telle. »
+        • Explication : Descartes insiste sur l’importance de la méthode rationnelle fondée sur le doute et la démonstration rigoureuse pour juger avec certitude.
+        • Exemple : En mathématiques, c’est grâce à un raisonnement rigoureux que l’on parvient à prouver la validité d’un théorème.
+
+        • Illustration 2 : Spinoza, L’Éthique : Spinoza affirme que « la vérité se montre à elle-même » grâce au raisonnement.
+        • Explication : En suivant les principes logiques, l’homme accède à des jugements solides fondés sur des démonstrations irréfutables.
+        • Exemple : Dans le domaine scientifique, les conclusions se fondent sur des raisonnements logiques appuyés par l’expérience.
+
+    B. La raison permet aussi de prendre du recul face aux passions et aux préjugés
+
+        • Idée : Apprendre à raisonner permet de ne pas se laisser influencer par les émotions ou les idées reçues.
+        • Illustration 1 : Kant, Critique de la raison pure : « Ose penser par toi-même. »
+        • Explication : Kant insiste sur l’autonomie intellectuelle que permet la raison en dépassant les opinions toutes faites.
+        • Exemple : Dans un débat politique, un raisonnement structuré évite de tomber dans des jugements biaisés par des stéréotypes.
+
+        • Illustration 2 : Bachelard, La formation de l’esprit scientifique : Bachelard insiste sur la nécessité de la raison pour écarter les « obstacles épistémologiques », c’est-à-dire les préjugés qui entravent la pensée.
+        • Explication : Sans méthode rationnelle, les jugements sont souvent faussés par des croyances infondées.
+        • Exemple : La croyance que la Terre est plate a longtemps prévalu avant que le raisonnement scientifique ne vienne prouver le contraire.
+ 
+II. Cependant, apprendre à raisonner ne suffit pas toujours : juger nécessite aussi d’autres facultés
+
+    A. L’expérience et la sensibilité sont parfois indispensables pour juger avec justesse
+
+        • Idée : Certaines situations complexes nécessitent un savoir empirique ou une intuition que la raison seule ne suffit pas à fournir.
+        • Illustration 1 : Aristote, Éthique à Nicomaque : Aristote affirme que la « phronésis » (la sagesse pratique) est indispensable pour prendre des décisions justes.
+        • Explication : Juger correctement ne repose pas uniquement sur des règles abstraites, mais nécessite aussi une expérience du réel.
+        • Exemple : Un médecin ne peut se contenter de théories médicales ; il doit aussi s’appuyer sur son intuition et son vécu face à chaque patient.
+
+        • Illustration 2 : Montaigne, Essais : Montaigne souligne que le jugement est souvent affaire de circonstances et que seule l’expérience permet de l’affiner.
+        • Explication : Juger nécessite parfois une sagesse pratique que le raisonnement seul ne suffit pas à garantir.
+        • Exemple : Un parent ne peut éduquer efficacement son enfant uniquement en suivant des principes théoriques ; il doit adapter ses décisions en fonction du comportement de l’enfant.
+
+    B. La morale et les valeurs jouent également un rôle essentiel dans le jugement
+
+        • Idée : Certaines décisions exigent une réflexion éthique que la logique ne peut à elle seule déterminer.
+        • Illustration 1 : Pascal, Pensées : « Le cœur a ses raisons que la raison ne connaît point. »
+        • Explication : Pascal montre que le jugement moral s’appuie aussi sur la sensibilité et les sentiments, au-delà du raisonnement logique.
+        • Exemple : Décider de pardonner une faute ne relève pas uniquement d’un calcul rationnel, mais aussi d’une réflexion morale.
+
+        • Illustration 2 : Levinas, Totalité et Infini : Levinas insiste sur l’importance de la responsabilité envers autrui dans nos jugements.
+        • Explication : Juger autrui ne peut se faire uniquement avec la raison, mais nécessite aussi une attention à sa singularité et à son humanité.
+        • Exemple : Un juge, pour prononcer une sentence juste, doit prendre en compte les circonstances humaines et sociales du prévenu.
+ 
+III. Se fier uniquement à la raison comporte aussi des risques
+
+    A. La raison, poussée à l’extrême, peut conduire à des jugements rigides et déshumanisés
+
+        • Idée : Un excès de rationalisme peut aboutir à une vision mécanique et froide du monde.
+        • Illustration 1 : Weber, Le Savant et le Politique : Weber met en garde contre « la cage d’acier » d’une société dominée par une rationalité purement instrumentale.
+        • Explication : Une pensée uniquement logique peut exclure les dimensions humaines, affectives et morales.
+        • Exemple : La bureaucratie excessive illustre ce danger : trop de règles rationnelles peuvent nuire à l’efficacité humaine.
+
+    B. Certaines vérités échappent au raisonnement logique
+
+        • Idée : Certaines réalités ne peuvent être saisies uniquement par la raison.
+        • Illustration 1 : Bergson, L’Évolution créatrice : Bergson insiste sur le rôle de l’intuition pour appréhender les aspects les plus profonds du réel.
+        • Explication : Certaines expériences, comme l’amour ou l’art, échappent aux démonstrations rationnelles.
+        • Exemple : L’émotion suscitée par une œuvre d’art dépasse souvent l’analyse logique.
+ 
+Conclusion
+
+Si apprendre à raisonner est indispensable pour juger avec rigueur et éviter les erreurs, cette faculté ne suffit pas toujours. Le jugement nécessite également de l’expérience, une sensibilité morale et parfois une intuition profonde. Ainsi, bien juger repose sur un équilibre entre la raison et d’autres facultés humaines, permettant une compréhension plus complète du réel et des situations complexes.

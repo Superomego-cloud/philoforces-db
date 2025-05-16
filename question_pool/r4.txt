@@ -1,0 +1,85 @@
+Introduction
+
+1. Amorce: Francis Bacon, dans Novum Organum, affirmait que « la science et la technique sont les véritables maîtresses de l’homme ». Cette idée souligne la puissance du progrès technique, capable de transformer en profondeur nos modes de vie et nos sociétés.
+
+2. Entrée dans le sujet et définition des notion: Le progrès technique désigne l’ensemble des innovations qui améliorent les outils, les machines et les méthodes permettant de mieux répondre aux besoins humains. La peur est ici une réaction d’inquiétude face à ce progrès, qui peut engendrer des conséquences imprévues, voire destructrices. Quant à la raison, elle renvoie à la faculté de juger de manière logique et réfléchie.
+
+3. Présentation des deux thèses: On peut considérer qu’il est raisonnable de craindre le progrès technique en raison des dangers qu’il peut engendrer. Toutefois, cette crainte peut aussi être jugée excessive, car le progrès technique est souvent source de bénéfices considérables pour l’humanité.
+
+4. Problématique (reformulée): La crainte face au progrès technique est-elle fondée sur une démarche rationnelle, ou bien relève-t-elle d’une peur irrationnelle et infondée ?
+
+5. Importance du sujet: Cette question est cruciale car elle interroge notre rapport à l’innovation et les choix de société que nous faisons en matière de progrès technique.
+
+6. Annonce du plan: Nous verrons dans un premier temps qu’il est légitime de craindre le progrès technique en raison des risques qu’il comporte. Ensuite, nous montrerons que cette peur est souvent irrationnelle, car le progrès technique demeure un moteur essentiel du bien-être humain. Enfin, nous verrons que cette peur peut être raisonnable si elle conduit à une réflexion éthique et à une maîtrise raisonnée du progrès.
+ 
+I. Il est raisonnable d’avoir peur du progrès technique en raison des dangers qu’il comporte
+
+    A. Le progrès technique menace parfois l’humanité
+
+        • Idée : L’innovation technique peut engendrer des conséquences destructrices.
+        • Illustration 1 : Heidegger, La question de la technique : « L’essence de la technique n’a rien de technique. »
+        • Explication : Heidegger met en garde contre la tentation de réduire la technique à sa seule dimension utilitaire, ignorant ainsi les effets négatifs sur la société et l’environnement.
+        • Exemple : La bombe atomique illustre les dangers extrêmes d’une technologie développée sans considération éthique.
+
+        • Illustration 2 : Hans Jonas, Le Principe responsabilité : « Agis de façon que les effets de ton action soient compatibles avec la permanence d’une vie authentiquement humaine sur Terre. »
+        • Explication : Jonas alerte sur les risques écologiques liés aux innovations non maîtrisées.
+        • Exemple : Le développement de technologies industrielles a contribué au réchauffement climatique.
+
+    B. Le progrès technique peut engendrer une perte de contrôle et une dépendance dangereuse
+
+        • Idée : Une innovation technique peut évoluer au-delà de la maîtrise humaine.
+        • Illustration 1 : Günther Anders, L’obsolescence de l’homme : Il met en garde contre les dangers d’une technique qui échappe à ses créateurs.
+        • Explication : Anders montre que les humains, fascinés par leurs propres inventions, risquent de ne plus en maîtriser les conséquences.
+        • Exemple : L’intelligence artificielle pourrait, sans régulation, provoquer des dérives éthiques ou sociales.
+
+        • Illustration 2 : Jacques Ellul, Le Système technicien : « La technique progresse pour elle-même, indépendamment de toute considération éthique ou sociale. »
+        • Explication : Ellul souligne que la technique, une fois développée, devient autonome et difficile à contrôler.
+        • Exemple : Les réseaux sociaux, initialement conçus pour rapprocher les individus, ont conduit à des problèmes de manipulation de masse.
+ 
+II. Il n’est pas raisonnable d’avoir peur du progrès technique car il demeure une source majeure de progrès humain
+
+    A. Le progrès technique améliore la condition humaine
+
+        • Idée : Les avancées techniques ont considérablement amélioré la qualité de vie.
+        • Illustration 1 : Descartes, Discours de la méthode : « Nous rendre comme maîtres et possesseurs de la nature. »
+        • Explication : Descartes montre que les progrès scientifiques et techniques permettent à l’humanité de mieux contrôler son environnement et de se libérer de nombreuses contraintes.
+        • Exemple : Les avancées médicales ont permis d’éradiquer de nombreuses maladies mortelles.
+
+        • Illustration 2 : Bacon, Novum Organum : Il défend l’idée que la science et la technique sont les moyens les plus efficaces d’améliorer la condition humaine.
+        • Explication : Pour Bacon, le progrès technique n’est pas un danger, mais une opportunité de libérer l’homme des souffrances et des limitations naturelles.
+        • Exemple : L’invention de la machine à vapeur a révolutionné les transports et l’industrie.
+
+    B. Le progrès technique est souvent accompagné de régulations et de contrôles
+
+        • Idée : Les sociétés modernes encadrent les innovations techniques pour limiter les dérives.
+        • Illustration 1 : Kant, Fondements de la métaphysique des mœurs : « La raison doit guider la volonté humaine. »
+        • Explication : Kant affirme que les progrès techniques doivent être encadrés par des principes éthiques et moraux.
+        • Exemple : Les normes environnementales visent aujourd’hui à limiter les effets destructeurs des industries.
+
+        • Illustration 2 : Popper, La société ouverte et ses ennemis : Il défend une approche critique des innovations en encourageant leur remise en question permanente.
+        • Explication : La science progresse en corrigeant ses erreurs, ce qui permet de limiter les dangers du progrès technique.
+        • Exemple : Les régulations sur les organismes génétiquement modifiés (OGM) visent à éviter des risques sanitaires et environnementaux.
+ 
+III. Une crainte raisonnable du progrès technique peut inciter à une maîtrise éclairée de l’innovation
+
+    A. La peur du progrès technique pousse à l’éthique et à la prudence
+
+        • Idée : La crainte des dangers technologiques peut encourager une vigilance constructive.
+        • Illustration 1 : Hans Jonas, Le Principe responsabilité : Il prône une « heuristique de la peur », incitant à anticiper les conséquences négatives des innovations techniques.
+        • Explication : Jonas défend une attitude de prudence qui invite à réfléchir aux effets à long terme du progrès.
+        • Exemple : Les débats éthiques autour du clonage humain illustrent cette vigilance.
+
+        • Illustration 2 : Rousseau, Discours sur les sciences et les arts : Il critique les effets pervers du progrès technique, qui peut détourner l’homme de sa véritable nature.
+        • Explication : Rousseau invite à un progrès mesuré, respectueux des besoins humains fondamentaux.
+        • Exemple : Les technologies numériques, bien qu’utiles, nécessitent des régulations pour préserver la vie privée et la santé mentale.
+
+    B. La raison doit encadrer le progrès technique pour éviter ses dérives
+
+        • Idée : La peur du progrès est légitime si elle conduit à une réflexion éthique et politique.
+        • Illustration 1 : Hegel, Phénoménologie de l’Esprit : « Rien de grand ne s’est accompli sans passion. »
+        • Explication : Hegel montre que le progrès, bien que risqué, est essentiel à l’histoire humaine et doit être guidé par la raison.
+        • Exemple : Le développement des énergies renouvelables illustre une innovation maîtrisée au service du bien commun.
+ 
+Conclusion
+
+En définitive, il est raisonnable de craindre le progrès technique lorsqu’il menace la nature, l’humanité ou nos valeurs morales. Cependant, cette peur ne doit pas conduire à rejeter le progrès en bloc, mais plutôt à adopter une attitude critique et vigilante. En associant le progrès technique à une réflexion éthique et politique, l’humanité peut bénéficier de ses avancées tout en limitant ses dangers.

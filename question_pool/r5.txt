@@ -1,0 +1,89 @@
+Introduction
+
+1. Amorce: Descartes, dans Discours de la méthode, affirme : « Le bon sens est la chose du monde la mieux partagée. » Cette citation met en évidence la confiance que chacun place en sa propre raison, comme si l’évidence suffisait à garantir que l’on a raison.
+
+2. Entrée dans le sujet et définition des termes: Savoir que l’on a raison suppose d’être certain que nos idées, nos jugements ou nos choix sont justes et fondés. Cette certitude semble relever de la raison, cette faculté propre à l’homme qui permet de distinguer le vrai du faux. Pourtant, il arrive souvent que l’on se trompe tout en étant persuadé d’avoir raison. Dès lors, savoir que l’on a raison nécessite des critères fiables.
+
+3. Présentation des deux thèses: D’une part, on pourrait penser que l’évidence intérieure, la cohérence logique ou encore l’accord avec autrui suffisent à savoir que l’on a raison. D’autre part, cette confiance peut être trompeuse, et seule une remise en question constante permettrait de confirmer la validité de nos idées.
+
+4. Problématique (reformulée): Comment peut-on s’assurer que nos jugements sont véritablement justes et fondés, et non le fruit d’une illusion ou d’une erreur ?
+
+5. Importance du sujet: Cette question soulève la difficulté de distinguer les vérités fiables des croyances infondées, notamment dans des domaines comme la science, la morale ou les opinions personnelles.
+
+6. Annonce du plan: Nous verrons dans un premier temps que certains critères permettent de savoir que l’on a raison. Ensuite, nous montrerons que ces critères sont parfois insuffisants. Enfin, nous soulignerons que la certitude d’avoir raison repose sur une exigence de doute méthodique et de confrontation avec autrui.
+ 
+I. Il existe des critères objectifs permettant de savoir que l’on a raison
+
+    A. La raison comme source d’évidence et de vérité
+
+        • Idée : La raison elle-même semble offrir des principes sûrs pour affirmer que l’on a raison.
+        • Illustration 1 : Descartes, Discours de la méthode : « Je pense, donc je suis. »
+        • Explication : Descartes montre que l’évidence intellectuelle, indubitable, permet d’affirmer que l’on a raison. Par cette certitude, il établit une vérité première et indiscutable.
+        • Exemple : En mathématiques, des démonstrations logiques et rigoureuses assurent la validité d’un raisonnement.
+
+        • Illustration 2 : Spinoza, Éthique : « La vérité se montre par elle-même. »
+        • Explication : Spinoza considère que la vérité, lorsqu’elle est découverte, s’impose à l’esprit par sa clarté et sa nécessité.
+        • Exemple : La reconnaissance d’une loi scientifique comme la gravitation universelle illustre cette évidence intellectuelle.
+
+    B. L’accord avec autrui comme critère de vérité
+
+        • Idée : La confrontation des idées avec les autres permet de vérifier que l’on a raison.
+        • Illustration 1 : Kant, Critique de la raison pure : Kant souligne que la raison humaine obéit à des principes universels et que la communication avec autrui permet de tester la solidité de nos idées.
+        • Explication : Échanger avec d’autres esprits rationnels permet d’éliminer les erreurs et de confirmer la justesse de nos raisonnements.
+        • Exemple : En sciences, les expériences sont reproduites par d’autres chercheurs pour vérifier la validité des résultats.
+
+        • Illustration 2 : Hegel, Phénoménologie de l’Esprit : « La vérité est le produit du dialogue. »
+        • Explication : Pour Hegel, le débat et la confrontation d’idées permettent d’éprouver et d’affiner nos jugements.
+        • Exemple : Dans un débat politique ou philosophique, la discussion critique permet de corriger des idées fausses.
+ 
+II. Toutefois, ces critères sont parfois trompeurs et insuffisants
+
+    A. La raison peut nous induire en erreur
+
+        • Idée : L’intellect humain est parfois victime d’illusions et d’erreurs malgré son apparente clarté.
+        • Illustration 1 : Pascal, Pensées : « Le cœur a ses raisons que la raison ne connaît point. »
+        • Explication : Pascal montre que la raison, bien qu’importante, ne suffit pas toujours à déterminer la vérité, car les passions, les émotions ou les préjugés peuvent nous égarer.
+        • Exemple : Les sophismes sont des raisonnements fallacieux qui semblent logiques mais sont erronés.
+
+        • Illustration 2 : Freud, L’Interprétation des rêves : Freud démontre que l’inconscient influence nos jugements et peut fausser nos certitudes.
+        • Explication : Même convaincus d’avoir raison, nous sommes parfois manipulés par des désirs ou des traumatismes inconscients.
+        • Exemple : Les biais cognitifs illustrent cette tendance à croire faussement avoir raison.
+
+    B. L’accord avec autrui ne garantit pas nécessairement la vérité
+
+        • Idée : Le consensus peut parfois se fonder sur des erreurs collectives.
+        • Illustration 1 : Nietzsche, Par-delà bien et mal : « La croyance ne prouve rien. »
+        • Explication : Nietzsche montre que le fait qu’une majorité partage une même idée ne garantit pas sa validité.
+        • Exemple : Pendant longtemps, la croyance que la Terre était plate a dominé malgré son caractère erroné.
+
+        • Illustration 2 : Hannah Arendt, La Crise de la culture : Elle dénonce les phénomènes de conformisme intellectuel qui empêchent la réflexion critique.
+        • Explication : Une idée acceptée collectivement peut masquer une vérité plus complexe ou dérangeante.
+        • Exemple : Les théories scientifiques remises en cause avec le temps illustrent cette fragilité du consensus.
+ 
+III. Savoir que l’on a raison suppose une démarche rigoureuse fondée sur le doute et la remise en question
+
+    A. Le doute comme méthode pour accéder à la vérité
+
+        • Idée : Le doute méthodique permet de vérifier la solidité de nos idées.
+        • Illustration 1 : Descartes, Méditations métaphysiques : Il prône un doute radical pour éliminer les erreurs et parvenir à des certitudes solides.
+        • Explication : Douter permet de distinguer les croyances infondées des vérités démontrées.
+        • Exemple : La méthode scientifique repose sur l’expérimentation et la vérification rigoureuse des hypothèses.
+
+        • Illustration 2 : Bachelard, La Formation de l’esprit scientifique : « La science, dans son besoin d’achèvement, fait plus que condamner les erreurs ; elle les utilise. »
+        • Explication : Bachelard insiste sur l’importance de la remise en question pour atteindre des vérités fiables.
+        • Exemple : La révision constante des théories scientifiques illustre cette exigence critique.
+
+    B. L’examen critique et l’ouverture au dialogue comme garantie de vérité
+
+        • Idée : La confrontation avec d’autres perspectives renforce la fiabilité de nos jugements.
+        • Illustration 1 : Popper, La Logique de la découverte scientifique : Popper propose le principe de « falsifiabilité », selon lequel une théorie scientifique doit pouvoir être contredite pour être valide.
+        • Explication : Cette exigence pousse à remettre en question même les idées que l’on croit justes.
+        • Exemple : La remise en cause des modèles cosmologiques a permis d’affiner la compréhension de l’univers.
+
+        • Illustration 2 : Socrate, dans les Dialogues de Platon : Par la méthode de la maïeutique, Socrate démontre que la recherche de la vérité passe par l’interrogation critique.
+        • Explication : Le dialogue permet de démasquer les faux savoirs et d’affiner ses idées.
+        • Exemple : Les débats philosophiques visent à éprouver la validité des arguments.
+ 
+Conclusion
+
+Savoir que l’on a raison semble possible grâce à des critères comme l’évidence rationnelle, l’accord avec autrui ou encore l’expérimentation scientifique. Cependant, ces critères peuvent parfois être trompeurs. Ainsi, c’est en adoptant une attitude de doute méthodique, de remise en question permanente et de confrontation des idées que l’on peut raisonnablement affirmer avoir raison.

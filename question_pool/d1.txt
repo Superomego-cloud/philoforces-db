@@ -1,0 +1,86 @@
+Introduction
+
+Amorce : Kant affirme dans les Fondements de la métaphysique des mœurs que « Le devoir est la nécessité d’accomplir une action par respect pour la loi morale. » Cette vision met en tension le devoir, perçu comme une exigence morale universelle, et l’intérêt, souvent associé à une motivation personnelle.
+
+Définitions des notions clés :
+
+    • Agir par devoir : accomplir une action pour respecter une norme morale, indépendamment des conséquences ou des désirs personnels.
+    • Agir par intérêt : agir en vue de satisfaire un besoin ou un désir, ou d’obtenir un avantage.
+
+Problématique : L’opposition entre devoir et intérêt semble évidente, mais est-il toujours vrai que l’accomplissement d’un devoir implique de négliger ses propres intérêts ? Peut-on penser que le devoir et l’intérêt sont parfois compatibles, voire complémentaires ?
+
+Annonce du plan : Nous verrons d’abord que le devoir s’oppose à l’intérêt personnel en tant qu’il exige une forme d’abnégation (I). Ensuite, nous montrerons que cette opposition n’est pas toujours absolue et que devoir et intérêt peuvent coïncider (II). Enfin, nous examinerons la possibilité que le devoir permette, à long terme, de réaliser un intérêt supérieur et collectif (III).
+
+I. Le devoir comme renoncement à l’intérêt personnel
+
+    A. La morale kantienne : le devoir comme obéissance à la loi morale
+
+        1. Kant – L’autonomie de la volonté morale
+        • Citation : « Agis uniquement d’après la maxime qui fait que tu puisses vouloir qu’elle devienne une loi universelle. » (Fondements de la métaphysique des mœurs)
+        • Explication : Kant distingue l’action par devoir (dictée par la raison) de l’action par inclination (dictée par l’intérêt ou les désirs). Le devoir exige d’agir par respect pour la loi morale, même contre nos propres intérêts.
+        • Exemple : Dire la vérité même si cela peut nous nuire.
+
+        2. Hobbes – Le devoir comme limite des intérêts égoïstes
+        • Citation : « Les lois de la nature nous imposent des obligations qui restreignent nos passions. » (Le Léviathan)
+        • Explication : Pour Hobbes, l’idée de devoir naît du contrat social, qui exige de chacun qu’il restreigne ses intérêts immédiats pour garantir la paix et la sécurité.
+        • Exemple : Payer ses impôts, même si cela diminue notre richesse personnelle.
+
+    B. Le devoir moral face à l’intérêt égoïste
+
+        1. Rousseau – Le devoir comme dépassement de l’amour de soi
+        • Citation : « L’homme véritable est celui qui obéit à la voix de sa conscience. » (Émile ou De l’éducation)
+        • Explication : Rousseau distingue l’amour de soi (survie et bien-être) et l’amour-propre (égoïsme). Agir par devoir, c’est transcender l’amour-propre pour respecter des principes universels.
+
+        2. Pascal – Le devoir comme renoncement aux vanités terrestres
+        • Citation : « L’homme n’est grand que lorsqu’il se met à genoux. » (Pensées)
+        • Explication : Pour Pascal, l’intérêt égoïste nous détourne de nos véritables devoirs spirituels. Se soumettre au devoir implique souvent de renoncer aux plaisirs matériels.
+
+II. La compatibilité entre devoir et intérêt
+
+    A. L’intérêt bien compris : un calcul rationnel compatible avec le devoir
+
+        1. Montesquieu – La morale et l’intérêt général
+        • Citation : « Les lois doivent unir l’intérêt particulier à l’intérêt général. » (De l’esprit des lois)
+        • Explication : Le devoir, en tant qu’il garantit l’ordre social, peut rejoindre l’intérêt personnel lorsque celui-ci s’inscrit dans une vision collective.
+        • Exemple : Respecter la loi pour garantir sa propre sécurité.
+
+        2. Hobbes – L’intérêt rationnel au service du devoir
+        • Citation : « Il est dans l’intérêt de chacun d’obéir au contrat social. » (Le Léviathan)
+        • Explication : L’obéissance au devoir, loin d’être contraire à l’intérêt, est parfois nécessaire pour préserver une société stable où chacun peut prospérer.
+
+    B. L’utilitarisme : le devoir comme maximisation du bonheur
+
+        1. Bentham – Le devoir d’agir pour le plus grand bonheur
+        • Citation : « La moralité consiste à produire la plus grande somme de bonheur pour le plus grand nombre. » (Introduction aux principes de morale et de législation)
+        • Explication : L’utilitarisme montre que le devoir moral peut coïncider avec l’intérêt collectif, qui inclut également l’intérêt personnel.
+
+        2. John Stuart Mill – La recherche de l’intérêt éclairé
+        • Citation : « L’homme éclairé agit selon son devoir, car il comprend que son bonheur dépend de celui des autres. » (L’utilitarisme)
+        • Explication : L’individu a intérêt à agir selon les principes moraux, car cela contribue à une société plus juste et stable.
+
+III. Le devoir comme réalisation d’un intérêt supérieur
+
+    A. Le devoir comme épanouissement personnel
+
+        1. Aristote – Le devoir comme accomplissement de la vertu
+        • Citation : « Le bonheur est une activité de l’âme conforme à la vertu. » (Éthique à Nicomaque)
+        • Explication : Pour Aristote, accomplir son devoir moral, c’est exercer ses vertus, ce qui mène à la véritable réalisation de soi.
+        • Exemple : La générosité, même coûteuse, enrichit spirituellement celui qui la pratique.
+
+        2. Kant – Le respect de soi par le respect du devoir
+        • Citation : « Le devoir est la dignité de l’homme. » (Fondements de la métaphysique des mœurs)
+        • Explication : Kant soutient que respecter la loi morale permet de se respecter soi-même en tant qu’être rationnel et libre.
+
+    B. Le devoir comme fondement d’un intérêt collectif durable
+
+        1. Hegel – L’État comme incarnation du devoir collectif
+        • Citation : « L’État est la réalité de la liberté concrète. » (Principes de la philosophie du droit)
+        • Explication : En obéissant à son devoir envers l’État, l’individu participe à la construction d’une société qui garantit sa liberté et son intérêt à long terme.
+
+        2. Marx – Le travail comme devoir et émancipation
+        • Citation : « Le travail est l’expression de la vie humaine. » (Manuscrits de 1844)
+        • Explication : Pour Marx, dans une société non aliénée, le travail peut devenir un devoir librement accompli qui réalise à la fois l’individu et la communauté.
+
+Conclusion
+
+Agir par devoir semble initialement opposé à l’intérêt personnel, car il exige un dépassement des inclinations égoïstes. Cependant, cette opposition n’est pas toujours absolue : devoir et intérêt peuvent converger lorsque l’intérêt est éclairé ou inscrit dans une perspective collective. Finalement, agir par devoir permet parfois de réaliser un intérêt supérieur, à la fois individuel et universel, en promouvant l’accomplissement de soi et la justice sociale. La véritable question est peut-être celle du sens que l’on donne à nos actions : un acte accompli par devoir peut, à terme, enrichir celui qui l’accomplit.
