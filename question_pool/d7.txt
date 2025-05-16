@@ -1,0 +1,87 @@
+Introduction
+
+Amorce : Kant écrit : « Deux choses remplissent le cœur d’admiration et de respect : le ciel étoilé au-dessus de moi et la loi morale en moi. » (Critique de la raison pratique). Cette citation souligne la tension entre l’autorité extérieure et la responsabilité intérieure.
+
+Définition des termes :
+
+    • “Dire” : Implique une injonction, une norme ou un conseil pouvant provenir d’une autorité extérieure ou de soi-même.
+    • “Ce que je dois faire” : Renvoie à l’idée de devoir, qu’il soit moral, social ou légal.
+
+Problématique : Qui est légitime pour déterminer mes actions : une autorité extérieure ou ma propre conscience ?
+
+Enjeu : Cette question interroge la liberté individuelle, la morale universelle et la nécessité d’une autorité pour organiser la vie collective.
+
+Annonce du plan : Nous examinerons d’abord les sources extérieures qui peuvent légitimement dicter nos actions (I), avant de montrer que la conscience individuelle peut s’y opposer (II), et enfin envisager une possible articulation entre autorité extérieure et autonomie personnelle (III).
+
+I. Les autorités extérieures comme guides légitimes de nos actions
+
+    A. L’autorité politique et juridique : garantir l’ordre et la sécurité (Hobbes, Rousseau)
+
+        1. Hobbes – L’autorité de l’État pour éviter le chaos
+        • Citation : « Sans un pouvoir commun, les hommes vivent dans une guerre de tous contre tous. » (Le Léviathan)
+        • Explication : L’État est nécessaire pour imposer des lois et garantir la coexistence pacifique.
+        • Exemple : Les lois qui limitent la liberté individuelle, comme le code de la route, pour préserver la sécurité collective.
+
+        2. Rousseau – L’autorité légitime issue de la volonté générale
+        • Citation : « L’obéissance à la loi qu’on s’est prescrite est liberté. » (Du contrat social)
+        • Explication : Les citoyens doivent suivre les lois s’ils ont participé à leur élaboration.
+
+    B. L’influence des normes sociales et culturelles (Durkheim, Montesquieu)
+
+        1. Durkheim – Les règles sociales comme guide moral
+        • Citation : « La discipline morale permet de vivre en société. » (Éducation et sociologie)
+        • Explication : Les normes sociales sont nécessaires pour structurer nos comportements et garantir la cohésion sociale.
+
+        2. Montesquieu – Les lois comme reflet des mœurs
+        • Citation : « Les lois doivent être adaptées au caractère du peuple. » (L’Esprit des lois)
+        • Explication : Les règles extérieures trouvent leur légitimité dans leur adéquation avec la culture d’un peuple.
+
+II. La conscience individuelle comme source ultime du devoir
+
+    A. L’autorité de la conscience morale (Kant, Thoreau)
+
+        1. Kant – La loi morale intérieure comme guide universel
+        • Citation : « Agis uniquement d’après la maxime qui peut devenir une loi universelle. » (Fondements de la métaphysique des mœurs)
+        • Explication : La raison autonome permet à chacun de déterminer ce qu’il doit faire, indépendamment des injonctions extérieures.
+        • Exemple : Résister à une loi injuste en suivant un principe moral supérieur.
+
+        2. Thoreau – La désobéissance civile face à l’injustice
+        • Citation : « La seule obligation que j’aie le droit d’accepter, c’est de faire à tout moment ce que je crois juste. » (La Désobéissance civile)
+        • Explication : L’individu doit privilégier sa conscience personnelle face aux règles injustes.
+
+    B. Les limites de la conscience individuelle (Freud, Nietzsche)
+
+        1. Freud – L’influence du surmoi
+        • Citation : « Le surmoi impose des exigences souvent irréalisables. » (Le Moi et le Ça)
+        • Explication : La conscience morale est parfois le reflet d’injonctions inconscientes, influencées par l’éducation et la culture.
+
+        2. Nietzsche – La critique de la morale universelle
+        • Citation : « La morale est un mensonge inventé par les faibles pour dominer les forts. » (Par-delà bien et mal)
+        • Explication : L’autorité de la conscience peut être un frein à la créativité et à la liberté individuelle.
+
+III. Vers une articulation entre autorité extérieure et autonomie individuelle
+
+    A. La coopération entre autorité et liberté (Arendt, Hegel)
+
+        1. Arendt – L’autorité comme nécessaire pour structurer la liberté
+        • Citation : « L’autorité ne détruit pas la liberté, elle en fixe les limites. » (La Crise de la culture)
+        • Explication : Une autorité légitime peut permettre à l’individu de s’épanouir en société sans chaos.
+
+        2. Hegel – La liberté réalisée dans l’obéissance rationnelle
+        • Citation : « L’individu ne trouve sa liberté que dans l’État. » (Philosophie du droit)
+        • Explication : L’obéissance aux lois de la raison universelle garantit à chacun une liberté véritable.
+
+    B. La nécessité d’un dialogue critique entre conscience et autorité (Rawls, Sartre)
+
+        1. Rawls – La justice comme équilibre entre intérêts individuels et collectifs
+        • Citation : « Chaque individu doit être libre dans le cadre d’un contrat social équitable. » (Théorie de la justice)
+        • Explication : La liberté individuelle doit être préservée, mais dans le respect des principes de justice partagés.
+
+        2. Sartre – La responsabilité individuelle dans le cadre social
+        • Citation : « L’homme est condamné à être libre. » (L’Être et le Néant)
+        • Explication : L’individu doit assumer la responsabilité de ses choix, même en s’opposant à l’autorité extérieure.
+
+Conclusion
+
+La question de savoir qui peut nous dire ce que nous devons faire révèle une tension entre autorité extérieure et liberté intérieure. Si l’État et les normes sociales garantissent une certaine cohésion, la conscience morale individuelle reste un guide essentiel face à l’injustice. Toutefois, un équilibre est nécessaire : seule une articulation critique entre les deux peut nous permettre d’agir de manière responsable, libre et juste.
+

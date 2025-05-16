@@ -1,0 +1,83 @@
+Introduction
+
+Amorce : Jean-Jacques Rousseau, dans Du Contrat Social, affirme : « Chacun de nous met en commun sa personne et toute sa puissance sous la suprême direction de la volonté générale. »
+Cette citation pose la question de la relation entre l’intérêt individuel et l’intérêt général dans le cadre d’une organisation sociale.
+
+Problématique : L’intérêt général, visant le bien commun, semble souvent exiger des concessions individuelles. Faut-il pour autant toujours sacrifier l’intérêt particulier au nom de l’intérêt général, ou bien ces deux intérêts peuvent-ils parfois coïncider ?
+
+Enjeu : Cette réflexion interroge le fondement de la vie en société et la nature des rapports entre l’individu et le collectif. Elle soulève des questions liées à la liberté, la responsabilité et la justice.
+
+Annonce du plan : Nous montrerons d’abord que la poursuite de l’intérêt général repose sur des sacrifices individuels nécessaires (I). Ensuite, nous verrons que l’intérêt général peut inclure et protéger l’intérêt particulier (II). Enfin, nous examinerons les tensions et compromis possibles entre ces deux dimensions (III).
+
+I. L’intérêt général nécessite le sacrifice de l’intérêt particulier
+
+    A. La soumission à la volonté générale (Rousseau, Hobbes)
+
+        1. Rousseau – La primauté de la volonté générale
+        • Citation : « La volonté générale est toujours droite […] elle ne peut jamais errer. » (Du Contrat Social)
+        • Explication : Rousseau considère que l’individu doit abandonner ses intérêts particuliers pour participer à la volonté générale, qui garantit la justice et le bien commun.
+        • Exemple : Le paiement des impôts, perçu comme un sacrifice individuel au profit du collectif.
+
+        2. Hobbes – La nécessité d’un pouvoir central pour éviter le chaos
+        • Citation : « Sans un pouvoir commun, les hommes vivent dans une guerre de chacun contre chacun. » (Le Léviathan)
+        • Explication : Selon Hobbes, les individus doivent renoncer à une partie de leur liberté individuelle pour garantir la sécurité et l’ordre social.
+
+    B. La société comme contrainte imposée à l’individu (Durkheim, Mauss)
+
+        1. Durkheim – Le sacrifice comme base de la solidarité
+        • Citation : « La société est l’âme des obligations morales. » (Les Règles de la méthode sociologique)
+        • Explication : La solidarité organique des sociétés modernes impose des devoirs et des sacrifices nécessaires pour le maintien de l’ordre social.
+
+        2. Mauss – Le don comme obligation sociale
+        • Citation : « Le don crée un lien qui transcende l’individu. » (Essai sur le don)
+        • Explication : L’acte de donner implique une perte individuelle, mais participe à la construction de l’intérêt collectif.
+        • Exemple : Les traditions de redistribution dans les sociétés primitives.
+
+II. L’intérêt général n’exclut pas l’intérêt particulier
+
+    A. La coexistence des deux intérêts (Kant, Freud)
+
+        1. Kant – La liberté rationnelle comme intérêt universel
+        • Citation : « Agis de telle sorte que la maxime de ton action puisse être érigée en loi universelle. » (Fondements de la métaphysique des mœurs)
+        • Explication : Pour Kant, l’individu, en agissant selon la loi morale, sert à la fois son propre intérêt rationnel et l’intérêt général.
+        • Exemple : Respecter les règles de la circulation : cela protège les autres, mais aussi soi-même.
+
+        2. Freud – Le surmoi comme synthèse entre collectif et individuel
+        • Citation : « La culture repose sur la répression des instincts. » (Malaise dans la civilisation)
+        • Explication : Les interdits culturels limitent les désirs individuels, mais protègent à la fois l’individu et la société dans son ensemble.
+
+    B. L’intérêt général comme prolongement des intérêts individuels (Arendt, Lévi-Strauss)
+
+        1. Arendt – La politique comme espace de réalisation individuelle
+        • Citation : « L’action politique est la plus haute forme d’existence humaine. » (La Condition de l’homme moderne)
+        • Explication : Pour Arendt, participer à la vie collective permet de réaliser pleinement son potentiel en tant qu’être humain.
+
+        2. Lévi-Strauss – L’individu au service de la structure sociale
+        • Citation : « Les règles sociales ne sont pas imposées, mais intériorisées. » (Les Structures élémentaires de la parenté)
+        • Explication : Les individus trouvent un sens à leur existence en contribuant à la continuité des structures sociales.
+
+III. Tensions et compromis entre intérêt général et intérêt particulier
+
+    A. Les limites du sacrifice individuel (Plaute, Thoreau)
+
+        1. Plaute – L’égoïsme naturel des humains
+        • Citation : « L’homme est un loup pour l’homme. » (Asinaria)
+        • Explication : Plaute souligne la difficulté pour les individus de mettre de côté leurs intérêts égoïstes.
+
+        2. Thoreau – La désobéissance civile face à l’injustice
+        • Citation : « Sous un gouvernement injuste, la place de l’homme juste est en prison. » (La Désobéissance civile)
+        • Explication : Lorsque l’intérêt général opprime l’individu, celui-ci a le droit moral de résister.
+
+    B. La recherche d’un équilibre (Rousseau, Durkheim)
+
+        1. Rousseau – Les limites de la volonté générale
+        • Citation : « Il faut un gouvernement pour garantir que la volonté générale reste conforme à l’intérêt commun. » (Du Contrat Social)
+        • Explication : Le gouvernement doit veiller à ce que l’intérêt général ne devienne pas oppressif.
+
+        2. Durkheim – L’autonomie de l’individu dans la société
+        • Citation : « Une société saine permet à l’individu de s’épanouir. » (Le Suicide)
+        • Explication : Pour Durkheim, la société doit trouver un équilibre entre cohésion collective et liberté individuelle.
+
+Conclusion
+
+La poursuite de l’intérêt général semble nécessiter le sacrifice de certains intérêts particuliers, notamment pour garantir l’ordre et la justice sociale. Cependant, cet impératif n’est pas toujours incompatible avec l’épanouissement individuel, comme le montrent Kant ou Arendt. La véritable question est celle des limites : jusqu’où peut-on sacrifier l’individu pour le bien commun, et comment éviter que l’intérêt général ne devienne un prétexte à l’oppression ?
