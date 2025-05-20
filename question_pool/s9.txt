@@ -1,0 +1,95 @@
+Introduction
+
+1. Amorce : Depuis les Lumières, la science s’est imposée comme le modèle privilégié de la quête de vérité, reposant sur l’observation, l’expérimentation et la rationalité. Pourtant, les domaines comme l’art, la philosophie ou la religion prétendent également accéder à certaines vérités.
+
+2. Problématisation (reformulée) : Si la science est reconnue pour sa rigueur et son efficacité dans la compréhension du réel, suffit-elle à satisfaire notre besoin de vérité ? Ou bien existe-t-il des vérités accessibles uniquement en dehors de la démarche scientifique ?
+
+3. Définitions des termes
+
+    • Vérité : Connaissance ou affirmation conforme à la réalité.
+    • Science : Démarche rationnelle et empirique visant à expliquer les phénomènes naturels et humains.
+
+4. Enjeu : Il s’agit de déterminer si la science est le seul moyen légitime d’accéder à la vérité ou si d’autres voies, comme la philosophie, la morale ou l’art, peuvent également fournir des vérités essentielles.
+
+5. Annonce du plan : Nous verrons d’abord que la science est un moyen privilégié et efficace d’accéder à la vérité. Puis, nous montrerons que certaines vérités échappent à la démarche scientifique. Enfin, nous examinerons la complémentarité éventuelle entre la science et d’autres formes de quête de vérité.
+ 
+Développement
+
+I. La science est un moyen privilégié et efficace d’accéder à la vérité. La rigueur méthodologique et les résultats concrets de la science en font un modèle fiable de recherche de vérité.
+
+    1. La méthode scientifique permet de produire des vérités objectives et vérifiables
+
+        • Idée : Par l’observation et l’expérimentation, la science permet d’établir des vérités fondées sur des preuves.
+        • Illustration 1 :
+        • Galilée : “La nature est un livre écrit en langage mathématique.” (dans Le Messager des étoiles).
+        • Explication : Galilée utilise des expériences et des observations rigoureuses pour démontrer que les lois de la physique s’expriment en termes mathématiques, apportant ainsi des vérités universelles.
+        • Exemple : Sa démonstration du mouvement des astres a permis de confirmer l’héliocentrisme.
+ 
+        • Illustration 2 :
+        • Claude Bernard : “Le savant ne doit avoir aucune idée préconçue.” (dans Introduction à l’étude de la médecine expérimentale).
+        • Explication : Bernard fonde la méthode expérimentale, basée sur l’hypothèse, l’observation et l’expérience, pour établir des vérités biologiques fiables.
+        • Exemple : Ses travaux sur la digestion et le rôle du pancréas ont révolutionné la médecine.
+
+    2. Les vérités scientifiques ont un caractère universel et prédictif
+
+        • Idée : La science permet de découvrir des lois constantes applicables partout et en tout temps.
+        • Illustration 1 :
+        • Isaac Newton : “Les lois de la nature sont universelles.” (dans Philosophiæ Naturalis Principia Mathematica).
+        • Explication : Newton découvre la loi de la gravitation universelle, qui s’applique aussi bien sur Terre qu’au sein du système solaire.
+        • Exemple : Cette loi permet de prédire avec précision le mouvement des planètes.
+
+        • Illustration 2 :
+        • Albert Einstein : “L’imagination est plus importante que le savoir.” (dans Comment je vois le monde).
+        • Explication : La théorie de la relativité, bien que née de raisonnements théoriques, est confirmée expérimentalement et offre une nouvelle compréhension du temps et de l’espace.
+        • Exemple : La précision des systèmes GPS repose sur ces découvertes.
+ 
+II. Cependant, certaines vérités échappent à la démarche scientifique. Certaines dimensions de l’existence relèvent d’expériences subjectives ou de réflexions qui ne peuvent être validées scientifiquement.
+
+    1. Les vérités existentielles et morales ne sont pas scientifiques
+
+        • Idée : Des questions fondamentales comme le sens de la vie ou les choix éthiques échappent à l’expérimentation scientifique.
+        • Illustration 1 :
+        • Søren Kierkegaard : “La vérité est subjective.” (dans Post-scriptum aux miettes philosophiques).
+        • Explication : Kierkegaard montre que certaines vérités existentielles sont indissociables du vécu personnel et ne peuvent être démontrées scientifiquement.
+        • Exemple : La question du sens de l’existence ne peut se résoudre par des formules mathématiques.
+
+        • Illustration 2 :
+        • Emmanuel Kant : “L’homme ne peut être un moyen mais toujours une fin.” (dans Fondements de la métaphysique des mœurs).
+        • Explication : Kant établit des principes moraux universels qui ne sont pas démontrables scientifiquement mais reposent sur la raison pratique.
+        • Exemple : Le respect de la dignité humaine ne peut être mesuré par des instruments scientifiques.
+
+    2. L’art et la littérature révèlent des vérités humaines profondes
+
+        • Idée : Certaines vérités sur les émotions, les valeurs ou la condition humaine sont accessibles uniquement par l’expérience esthétique ou littéraire.
+        • Illustration 1 :
+        • Friedrich Nietzsche : “L’art est la grande stimulation de la vie.” (dans La Naissance de la tragédie).
+        • Explication : Nietzsche souligne que l’art exprime des vérités intimes et existentielles que la science ne peut formuler.
+        • Exemple : Un tableau comme Guernica de Picasso exprime la souffrance humaine face à la guerre, une vérité émotionnelle qui échappe à l’analyse scientifique.
+
+        • Illustration 2 :
+        • Marcel Proust : “La vraie vie, c’est la littérature.” (dans À la recherche du temps perdu).
+        • Explication : Proust montre que la littérature permet de saisir des vérités psychologiques et affectives que la science ne saurait décrire avec précision.
+        • Exemple : Ses descriptions de la mémoire involontaire illustrent des vérités sur le temps et l’identité.
+ 
+III. La science et les autres formes de savoir sont complémentaires dans la quête de vérité. La science ne suffit pas à elle seule à répondre à toutes les interrogations humaines, mais elle reste essentielle pour compléter d’autres formes de recherche.
+
+    1. La science éclaire et précise certaines vérités existentielles ou philosophiques
+
+        • Idée : La science peut enrichir des questionnements philosophiques ou spirituels.
+        • Illustration 1 :
+        • Sigmund Freud : “L’inconscient est le fondement de notre vie psychique.” (dans L’interprétation des rêves).
+        • Explication : En développant la psychanalyse, Freud montre que la science peut révéler des vérités sur notre vie intérieure.
+        • Exemple : La notion de refoulement éclaire des comportements énigmatiques.
+
+        • Illustration 2 :
+        • Gaston Bachelard : “La science nous enseigne à nous méfier de nos intuitions premières.” (dans La Formation de l’esprit scientifique).
+        • Explication : Bachelard montre que la science permet de remettre en question nos croyances et d’atteindre une vérité plus objective.
+        • Exemple : Les illusions d’optique démontrent les limites de notre perception immédiate.
+ 
+Conclusion
+
+1. Synthèse : La science est un outil puissant et fiable pour atteindre certaines vérités objectives, mais elle ne suffit pas à répondre à toutes les interrogations humaines.
+
+2. Réponse au problème : Il est donc légitime de chercher certaines vérités en dehors du cadre strictement scientifique, notamment dans les domaines de l’éthique, de l’art et de la philosophie.
+
+3. Ouverture : Cette réflexion soulève la question du dialogue entre la science et d’autres formes de savoir face aux grands enjeux contemporains.

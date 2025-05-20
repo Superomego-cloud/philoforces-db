@@ -1,0 +1,80 @@
+Introduction 
+
+1. Amorce : Depuis les grandes révolutions scientifiques, la science est souvent perçue comme la voie royale vers la vérité. Des figures comme Galilée, Newton ou Einstein ont montré que les découvertes scientifiques permettent de comprendre les lois qui régissent l’univers avec une précision remarquable. Pourtant, l’histoire des sciences est également marquée par des remises en question et des changements de paradigmes.
+
+2. Définition des termes :
+
+    • Vérité scientifique : Connaissance fondée sur des faits observables, vérifiables et démontrés par la méthode expérimentale.
+    • Indiscutable : Ce qui ne peut être remis en cause, car fondé sur des preuves incontestables.
+
+3. Problématisation (reformulée) : La science prétend établir des vérités universelles et objectives. Mais ces vérités, parce qu’elles évoluent avec les découvertes, sont-elles vraiment indiscutables ?
+
+4. Annonce du plan : Nous verrons d’abord que les vérités scientifiques semblent fondées sur des preuves solides et objectives. Ensuite, nous montrerons que ces vérités restent pourtant sujettes à la contestation. Enfin, nous nous interrogerons sur la nature même des vérités scientifiques et leur rapport à la certitude.
+ 
+I. Les vérités scientifiques apparaissent comme des connaissances fondées et indiscutables
+
+    1. La méthode scientifique garantit des vérités objectives
+
+        • Illustration 1 : Descartes, Discours de la méthode – Descartes insiste sur la nécessité d’une méthode rigoureuse pour parvenir à des vérités certaines.
+        • Citation : « Ne recevoir jamais aucune chose pour vraie que je ne la connusse évidemment être telle ».
+
+        • Explication : La méthode scientifique, inspirée du doute cartésien, repose sur l’observation, l’expérimentation et la démonstration rationnelle, ce qui en fait une démarche fondée sur des preuves solides.
+        • Illustration 2 : Claude Bernard, Introduction à l’étude de la médecine expérimentale – Bernard défend l’idée que l’expérience permet de valider des hypothèses et d’écarter les croyances infondées.
+        • Exemple : La théorie de la gravitation universelle de Newton, établie par des calculs précis et confirmée par l’expérience, est longtemps apparue comme une vérité indiscutable.
+
+2. Les vérités scientifiques ont une portée universelle et s’imposent à tous
+
+    • Illustration 1 : Galilée, Le Messager des étoiles – Galilée démontre, grâce à ses observations astronomiques, que le modèle héliocentrique est fondé sur des faits irréfutables.
+    • Citation : « Et pourtant elle tourne ».ù
+    • Explication : Même face à l’opposition de son époque, Galilée affirme que les faits scientifiques s’imposent par leur évidence.
+
+    • Illustration 2 : Einstein, Relativité : La théorie spéciale et générale – Einstein bouleverse les conceptions classiques du temps et de l’espace, mais ses théories, vérifiées expérimentalement, sont rapidement reconnues comme des vérités fondamentales.
+    • Exemple : La loi de la conservation de l’énergie est aujourd’hui considérée comme un principe scientifique incontestable.
+ 
+II. Les vérités scientifiques restent pourtant discutables et évolutives
+
+    1. L’histoire des sciences montre que les vérités scientifiques évoluent
+
+        • Illustration 1 : Kuhn, La Structure des révolutions scientifiques – Kuhn montre que les sciences avancent par « révolutions », où les anciens paradigmes sont parfois totalement renversés.
+        • Citation : « Une révolution scientifique se produit lorsque les anciens modèles sont remplacés par de nouveaux qui expliquent mieux les phénomènes observés ».
+        • Explication : Ce que l’on considère comme une vérité scientifique peut être dépassé par de nouvelles découvertes.
+
+        • Illustration 2 : Feyerabend, Contre la méthode – Feyerabend critique l’idée d’une méthode scientifique rigide et affirme que le progrès scientifique repose souvent sur des ruptures inattendues.
+        • Exemple : La théorie de Newton, longtemps considérée comme indiscutable, a été corrigée par la théorie de la relativité d’Einstein.
+
+    2. Certaines vérités scientifiques restent hypothétiques ou incomplètes
+
+        • Illustration 1 : Popper, La logique de la découverte scientifique – Popper soutient que toute théorie scientifique doit être « falsifiable », c’est-à-dire susceptible d’être remise en question.
+        • Citation : « Une théorie qui n’est pas réfutable par aucun événement concevable n’est pas scientifique ».
+        • Explication : La science avance par essais et erreurs ; les théories ne sont valables que jusqu’à preuve du contraire.
+
+        • Illustration 2 : Heisenberg, Le principe d’incertitude – Heisenberg démontre qu’il est impossible de connaître simultanément la position et la vitesse exacte d’une particule, remettant en cause l’idée d’une science parfaitement prévisible.
+        • Exemple : En physique quantique, les modèles théoriques sont constamment réévalués en fonction de nouvelles observations.
+ 
+III. La nature des vérités scientifiques invite à repenser leur statut
+
+    1. Les vérités scientifiques ne sont pas absolues, mais rationnellement fondées
+
+        • Illustration 1 : Pascal, Pensées – Pascal distingue les « vérités de raison » et les « vérités de cœur », soulignant que les vérités scientifiques, bien que solides, n’épuisent pas toutes les dimensions du réel.
+        • Citation : « L’homme n’est qu’un roseau, le plus faible de la nature, mais c’est un roseau pensant ».
+        • Explication : Les vérités scientifiques, bien que puissantes, ne sauraient répondre à toutes les questions existentielles ou éthiques.
+
+        • Illustration 2 : Merleau-Ponty, Phénoménologie de la perception – Il montre que l’expérience subjective et le vécu personnel révèlent des vérités que les sciences ne peuvent pleinement saisir.
+        • Exemple : Les sciences médicales progressent constamment, mais certaines pathologies complexes ou liées au psychisme restent difficiles à expliquer.
+
+    2. La science vise une vérité toujours perfectible
+
+        • Illustration 1 : Bachelard, Le Nouvel Esprit scientifique – Bachelard insiste sur l’idée que la science est par nature en perpétuel progrès.
+        • Citation : « La vérité scientifique est une vérité rectifiée ».
+        • Explication : La science ne vise pas des certitudes absolues mais des connaissances de plus en plus précises et fiables.
+
+        • Illustration 2 : Husserl, La Crise des sciences européennes – Husserl critique les dérives du positivisme et souligne que la science ne peut prétendre à une vérité totale sans réflexion philosophique.
+        • Exemple : Les théories sur l’origine de l’univers évoluent constamment avec les avancées de la cosmologie.
+ 
+Conclusion 
+
+1. Récapitulatif : Les vérités scientifiques semblent fondées sur des méthodes rigoureuses qui garantissent leur objectivité et leur fiabilité. Cependant, ces vérités sont toujours susceptibles d’être remises en question et dépassées par de nouvelles découvertes.
+
+2. Réponse à la problématique : Il apparaît donc que les vérités scientifiques ne sont pas totalement indiscutables : elles sont solides tant qu’aucune nouvelle preuve ne vient les contredire, mais elles restent ouvertes à la critique et à l’évolution.
+
+3. Ouverture : Cette remise en question permanente des vérités scientifiques soulève une interrogation plus large : la quête de la vérité doit-elle s’accompagner d’une part d’incertitude et de doute méthodique pour progresser ?

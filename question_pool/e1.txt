@@ -1,0 +1,85 @@
+Introduction
+
+« L’État est le Léviathan qui nous protège du chaos, mais dont la puissance peut nous asservir », pourrait-on dire en s’inspirant de Hobbes et des réflexions sur la domination. Le sujet nous invite à interroger la nature du pouvoir étatique : la domination est-elle intrinsèque à l’État ou bien peut-on concevoir une organisation politique qui, tout en assurant l’ordre, ne repose pas sur l’oppression ?. Ici, l’État désigne l’ensemble des institutions organisant la vie collective, et la domination fait référence à l’exercice d’un pouvoir contraignant sur les individus. L’enjeu de cette problématique est double : d’une part, il s’agit de comprendre si le pouvoir étatique ne peut qu’exercer une forme de domination, et d’autre part, d’évaluer si des mécanismes institutionnels peuvent légitimer et limiter cette domination. La question se reformule ainsi : l’État, par l’exercice de son pouvoir, impose-t-il inévitablement une domination sur ses citoyens ?
+
+I. L’État comme garant de l’ordre social et instrument légitime d’organisation
+
+    A. La nécessité d’un pouvoir fort pour assurer la paix et l’ordre
+
+        1. Hobbes – Le Léviathan et l’État comme protection contre le chaos
+        • Citation : « Dans l’état de nature, l’homme est un loup pour l’homme. » (Le Léviathan)
+        • Présentation & Explication : Pour Hobbes, l’État naît d’un pacte social dans lequel les individus délèguent une partie de leur liberté à un pouvoir central afin d’éviter le chaos et la guerre de tous contre tous. Ainsi, une certaine domination est légitime pour garantir la sécurité collective.
+        • Exemple : L’établissement d’un gouvernement capable de faire respecter les lois dans une société fragmentée.
+
+        2. Sieyès – L’État comme expression de la souveraineté populaire
+        • Citation : « Le Tiers-État est la nation » (Qu’est-ce que le Tiers-État ?)
+        • Présentation & Explication : Sieyès défend l’idée que l’État doit représenter la volonté générale du peuple. Même si l’exercice du pouvoir implique une autorité sur les citoyens, cette domination est considérée comme légitime lorsqu’elle émane de la souveraineté populaire.
+        • Exemple : La Révolution française, qui a mis en avant l’idée que le pouvoir doit servir l’intérêt général et non des privilèges individuels.
+
+    B. La régulation du pouvoir pour éviter la tyrannie
+
+        1. Montesquieu – La séparation des pouvoirs comme rempart contre l’arbitraire
+        • Citation : « Pour qu’on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir. » (De l’esprit des lois)
+        • Présentation & Explication : Montesquieu propose la séparation des pouvoirs (législatif, exécutif, judiciaire) comme un mécanisme permettant de limiter la domination étatique et de protéger la liberté des citoyens.
+        • Exemple : Les constitutions modernes qui prévoient des freins et contrepoids entre les différentes branches du gouvernement.
+
+        2. Tocqueville – La force de la démocratie pour encadrer l’État
+        • Citation : « Dans une démocratie, le pouvoir de l’État se nourrit de l’opinion publique. » (De la démocratie en Amérique)
+        • Présentation & Explication : Tocqueville observe que la démocratie permet, par la participation et la vigilance citoyenne, de limiter les excès de la domination étatique. La transparence et la délibération collective freinent l’arbitraire du pouvoir.
+        • Exemple : Les élections régulières et la liberté de la presse qui assurent un contrôle démocratique sur l’action gouvernementale.
+
+II. L’État comme instrument de domination oppressive
+
+    A. La critique marxiste de l’État en tant qu’instrument de la classe dominante
+
+        1. Marx – L’État, outil d’exploitation et de domination de classe
+        • Citation : « L’État n’est rien d’autre que l’instrument de domination d’une classe sur l’autre. » (Manuscrits de 1844)
+        • Présentation & Explication : Pour Marx, l’État sert à maintenir les rapports de production et à perpétuer l’exploitation économique. La domination exercée par l’État est donc intrinsèquement liée aux inégalités de pouvoir et à l’aliénation.
+        • Exemple : Les politiques étatiques qui favorisent les intérêts des classes dirigeantes au détriment des travailleurs.
+
+        2. Machiavel – La domination par la ruse et la force comme stratégie politique
+        • Citation : « Le prince doit apprendre à ne pas être bon, et à utiliser la force et la ruse selon les nécessités. » (Le Prince)
+        • Présentation & Explication : Machiavel expose comment un dirigeant peut, par la manipulation et l’usage de la force, consolider son pouvoir. La domination devient alors un outil délibéré de maintien de l’autorité, indépendamment de toute considération morale.
+        • Exemple : Les régimes autoritaires qui utilisent la propagande, la répression et la manipulation pour asseoir leur pouvoir.
+
+    B. La domination inhérente à la nature humaine et aux structures politiques
+
+        1. Pascal – La misère de l’homme et la nécessité d’un ordre pour contenir nos passions
+        • Citation : « L’homme est misérable et faible, et il a besoin d’un ordre pour dominer ses passions. » (Pensées)
+        • Présentation & Explication : Pascal souligne la fragilité de la condition humaine. L’État, en exerçant une domination, apparaît comme un moyen de canaliser les instincts destructeurs de l’homme, même si cela implique une certaine forme d’oppression.
+        • Exemple : Les systèmes de lois strictes qui encadrent les comportements pour prévenir le chaos.
+
+        2. Machiavel (réitéré) – La réalité politique, où la domination est inévitable
+        • Citation : « Les fins justifient les moyens » (Le Prince, idée associée à Machiavel)
+        • Présentation & Explication : La politique est souvent perçue comme un domaine où l’efficience du pouvoir prime sur la morale. La domination est inévitable car elle permet de maintenir l’ordre et de sécuriser le pouvoir dans un contexte compétitif.
+        • Exemple : Les stratégies politiques des États pour contrôler l’opposition et sécuriser le pouvoir en temps de crise.
+
+III. Vers une synthèse : Domination nécessaire ou tyrannie évitable ?
+
+    A. La légitimité conditionnelle de la domination étatique
+
+        1. Hobbes – La domination comme mal nécessaire pour assurer la paix
+        • Citation : « L’État est le mal nécessaire pour éviter la guerre de tous contre tous » (Le Léviathan)
+        • Présentation & Explication : Pour Hobbes, la domination de l’État est justifiée par la nécessité de garantir la sécurité et l’ordre dans une société naturellement chaotique. La domination, bien qu’oppressive, est alors perçue comme légitime pour préserver la vie.
+        • Exemple : L’autorité centrale qui impose des lois pour prévenir les conflits dans une société fragmentée.
+
+        2. Tocqueville – La domination tempérée par la démocratie
+        • Citation : « La démocratie, par sa nature, tend à limiter l’arbitraire du pouvoir en favorisant l’égalité et la participation citoyenne » (De la démocratie en Amérique)
+        • Présentation & Explication : Tocqueville montre que, même si la domination existe dans l’État, elle peut être contrôlée et régulée par des institutions démocratiques qui permettent l’équilibre entre autorité et liberté.
+        • Exemple : Les mécanismes de contrôle démocratique qui empêchent l’État de sombrer dans la tyrannie.
+
+    B. Vers un compromis entre autorité et liberté
+
+        1. Montesquieu – La séparation des pouvoirs comme garantie contre l’abus de domination
+        • Citation : « Pour qu’on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir » (De l’esprit des lois)
+        • Présentation & Explication : Montesquieu propose un système institutionnel dans lequel les pouvoirs se limitent mutuellement, transformant la domination potentielle en un équilibre qui protège la liberté des citoyens.
+        • Exemple : La mise en place de constitutions démocratiques qui séparent le pouvoir exécutif, législatif et judiciaire.
+
+        2. Sieyès – L’État légitime, fondé sur la souveraineté populaire
+        • Citation : « Le Tiers-État est la nation » (Qu’est-ce que le Tiers-État ?)
+        • Présentation & Explication : Sieyès soutient que lorsque le pouvoir émane du peuple, la domination étatique est moins arbitraire et plus soumise à l’intérêt général, constituant ainsi un compromis entre autorité et liberté.
+        • Exemple : Les révolutions qui aboutissent à des systèmes démocratiques où le peuple exerce son pouvoir par des représentants élus.
+
+Conclusion
+
+La réflexion sur la domination exercée par l’État révèle une tension essentielle : d’un côté, un pouvoir fort est nécessaire pour instaurer l’ordre et assurer la sécurité dans une société humaine imparfaite ; de l’autre, ce même pouvoir, s’il est concentré et non contrôlé, peut devenir oppressif et asservissant. Les théories de Hobbes et de Machiavel illustrent la nécessité pragmatique d’une domination pour éviter le chaos, tandis que celles de Montesquieu, Tocqueville et Sieyès montrent que la démocratie et la séparation des pouvoirs sont autant de mécanismes visant à limiter l’arbitraire. En définitive, si l’État exerce une domination pour assurer l’ordre, cette domination n’est pas inévitablement tyrannique, à condition qu’elle soit régulée par des institutions démocratiques et la participation citoyenne.

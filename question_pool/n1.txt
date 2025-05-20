@@ -1,0 +1,102 @@
+Introduction
+
+1. Amorce : Depuis l’Antiquité, la nature a souvent été perçue comme un modèle d’ordre et d’harmonie. Aristote, par exemple, voit dans la nature un principe organisateur finalisé, tandis que Lucrèce y décèle plutôt un enchaînement aléatoire d’atomes sans but précis.
+
+2. Contextualisation : Cette opposition entre un ordre naturel et une nature indifférente se retrouve dans notre perception du normal. En effet, le terme « naturel » renvoie à ce qui existe indépendamment de l’action humaine, tandis que « normal » peut désigner ce qui est conforme à une norme, qu’elle soit statistique, sociale ou morale.
+
+3. Définition des termes : 
+
+    • Naturel : ce qui est donné par la nature, ce qui existe indépendamment de la volonté humaine.
+    • Normal : peut désigner ce qui est fréquent (sens statistique), ce qui est conforme à un idéal (sens normatif) ou ce qui est socialement admis.
+
+4. Problématisation : Peut-on alors affirmer que ce qui est naturel est nécessairement normal ? Si certains considèrent que la nature définit ce qui est normal (biologique ou moralement acceptable), d’autres rappellent que le normal est souvent une construction humaine et sociale.
+
+5. Annonce du plan : Nous verrons d’abord que la nature semble constituer une norme en elle-même. Ensuite, nous montrerons que le normal est avant tout une construction culturelle et sociale. Enfin, nous interrogerons la possibilité d’une rupture entre le naturel et le normal, notamment dans le cadre du progrès technique et des transformations sociales.
+
+I. La nature comme norme fondamentale
+
+    1. L’idée d’un ordre naturel régissant ce qui est normal
+
+        • Illustration 1 : Aristote
+        • Présentation : Dans sa philosophie, Aristote considère que tout dans la nature a une finalité (téléologie).
+        • Citation : « La nature ne fait rien en vain. »
+        • Explication : Selon lui, le naturel est l’ordre véritable du monde, et donc ce qui est naturel est aussi ce qui est conforme à cet ordre et donc normal.
+        • Exemple : La classification des êtres vivants selon leur fonction naturelle (homme = animal rationnel).
+
+        • Illustration 2 : Gobineau
+        • Présentation : Théoricien du déterminisme racial, il considère que les différences entre races sont naturelles et justifient des hiérarchies.
+        • Citation : « L’inégalité des races est le moteur de l’histoire. »
+        • Explication : Pour lui, la nature elle-même fixe des normes, et toute tentative de les remettre en question serait contre-nature.
+        • Exemple : Justification des inégalités sociales et politiques par des différences biologiques perçues comme naturelles.
+
+    2. La nature comme fondement biologique du normal
+
+        • Illustration 1 : Laborit
+        • Présentation : Neurobiologiste, il insiste sur l’influence des instincts naturels sur le comportement humain.
+        • Citation : « L’homme n’est qu’un animal conditionné par sa biologie. »
+        • Explication : Ce qui est naturel chez l’homme (instinct de survie, agressivité, reproduction) serait un fondement du normal.
+        • Exemple : La peur et l’agressivité comme réactions naturelles et donc normales face au danger.
+
+        • Illustration 2 : Rousseau
+        • Présentation : Philosophe du XVIIIe siècle, il défend l’idée que l’homme est naturellement bon, mais corrompu par la société.
+        • Citation : « L’homme naît bon, c’est la société qui le corrompt. »
+        • Explication : Il oppose le naturel et le social, affirmant que la normalité ne devrait pas être dictée par des conventions artificielles, mais par un retour à la nature.
+        • Exemple : L’éducation selon Rousseau doit respecter les tendances naturelles de l’enfant et non les normes sociales imposées.
+
+II. Le normal comme construction sociale et culturelle
+
+    1. Ce qui est normal dépend des normes sociales
+
+        • Illustration 1 : Levi-Strauss
+        • Présentation : Anthropologue, il montre que les normes varient selon les cultures.
+        • Citation : « Ce qui est naturel pour nous ne l’est pas forcément pour les autres. »
+        • Explication : La normalité n’est pas définie par la nature mais par la culture et l’histoire d’une société.
+        • Exemple : Les critères de beauté varient selon les époques et les civilisations.
+
+        • Illustration 2 : Durkheim
+        • Présentation : Sociologue, il montre que le normal est une construction sociale.
+        • Citation : « Est normal tout ce qui est universellement accepté dans une société donnée. »
+        • Explication : Ce qui est normal ne découle pas de la nature mais de règles implicites dictées par le groupe.
+        • Exemple : Les règles vestimentaires et morales varient selon les sociétés.
+
+    2. Le normal peut aller à l’encontre du naturel
+
+        • Illustration 1 : Descartes
+        • Présentation : Philosophe rationaliste, il défend l’idée que l’homme doit dominer la nature.
+        • Citation : « Nous rendre comme maîtres et possesseurs de la nature. »
+        • Explication : L’homme ne doit pas se contenter de suivre la nature, mais créer ses propres normes rationnelles.
+        • Exemple : La médecine moderne qui combat des phénomènes naturels comme la maladie ou la vieillesse.
+
+        • Illustration 2 : Lucrèce
+        • Présentation : Philosophe épicurien, il rejette l’idée d’un ordre naturel absolu.
+        • Citation : « Il n’y a pas de finalité dans la nature, seulement des atomes en mouvement. »
+        • Explication : La nature n’impose pas de norme, c’est l’homme qui en invente pour donner un sens au monde.
+        • Exemple : Les lois et les institutions humaines qui créent un ordre artificiel.
+
+III. La rupture entre le naturel et le normal dans le progrès humain
+
+    1. Le progrès technique modifie les normes naturelles
+
+        • Illustration 1 : Laborit
+        • Présentation : La technique permet de s’affranchir des contraintes naturelles.
+        • Citation : « L’homme est un être de fuite qui ne cesse d’inventer des moyens d’échapper à la nature. »
+        • Explication : Ce qui est normal aujourd’hui (technologies, urbanisation) n’a plus rien de naturel.
+        • Exemple : La contraception, l’intelligence artificielle.
+
+        • Illustration 2 : Kant
+        • Présentation : Il défend la morale rationnelle qui dépasse les lois naturelles.
+        • Citation : « Agis uniquement d’après la maxime qui peut être érigée en loi universelle. »
+        • Explication : La morale ne dépend pas de la nature mais d’un choix rationnel.
+        • Exemple : L’abolition de l’esclavage, qui était autrefois vu comme naturel.
+
+    2. Le dépassement du naturel dans les valeurs humaines
+
+        • Illustration 1 : Nietzsche
+        • Présentation : Il critique les normes morales qui se fondent sur la nature.
+        • Citation : « L’homme est un pont et non un but. »
+        • Explication : Nous devons dépasser la nature pour créer nos propres valeurs.
+        • Exemple : L’évolution des mœurs et des droits humains.
+
+Conclusion
+
+La nature a longtemps été vue comme une norme évidente, mais le développement des sciences et des sociétés a montré que le normal est une construction humaine. Ainsi, ce qui est naturel n’est pas nécessairement normal, et inversement. Cela pose la question de savoir si nous devons encore nous référer à la nature pour définir nos normes.

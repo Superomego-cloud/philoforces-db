@@ -1,0 +1,102 @@
+Introduction
+
+1. Amorce : Gaston Bachelard affirme dans Le Nouvel Esprit scientifique que “Rien n’est donné, tout est construit”. Cette citation illustre l’idée que la science avance en construisant ses propres méthodes et savoirs, mais laisse entendre aussi qu’elle ne peut tout résoudre instantanément.
+
+2. Entrée dans le sujet : Depuis les grandes révolutions scientifiques, notamment celles initiées par Galilée, Newton ou Einstein, la science a largement démontré sa capacité à expliquer les phénomènes naturels et techniques. Certains considèrent alors qu’elle finira par résoudre toutes les énigmes du monde. Toutefois, d’autres soulignent que la science se heurte à des limites méthodologiques, éthiques ou existentielles.
+
+3. Définitions des termes
+
+    • Science : Ensemble de connaissances fondées sur des méthodes rigoureuses visant à expliquer les phénomènes du monde.
+    • Réponse à tout : La capacité d’apporter des explications complètes et définitives à toutes les questions possibles, qu’elles soient d’ordre physique, moral ou métaphysique.
+
+4. Opposition des idées
+
+    • D’un côté, certains considèrent que la science progresse continuellement et finira par tout expliquer.
+    • D’un autre côté, certains estiment que certaines questions échappent à la science.
+
+5. Problématique (reformulée) : La science peut-elle réellement offrir une réponse à toutes les interrogations humaines ou rencontre-t-elle des limites incontournables ?
+
+6. Enjeu : Cette réflexion soulève la question du rôle de la science dans notre quête de vérité et de compréhension du monde.
+
+7. Annonce du plan : Nous verrons d’abord que la science semble en mesure d’apporter des réponses toujours plus complètes aux énigmes du monde. Ensuite, nous montrerons que certaines questions résistent pourtant à l’analyse scientifique. Enfin, nous examinerons si cette incapacité est nécessairement une faiblesse de la science.
+ 
+Développement
+
+I. La science semble capable de répondre à toutes les questions grâce à ses méthodes rigoureuses. La science progresse continuellement en dévoilant les lois de la nature et en proposant des solutions concrètes aux problèmes humains.
+
+    1. Les succès scientifiques dans l’explication du monde naturel
+
+        • Idée : La science a permis de comprendre de nombreux phénomènes autrefois mystérieux.
+        • Illustration 1 :
+        • Galilée : “La nature est écrite en langage mathématique.” (dans L’Essayeur).
+        • Explication : Galilée montre que les lois de la nature sont rationnelles et peuvent être déchiffrées grâce aux mathématiques.
+        • Exemple : La mécanique classique a permis d’expliquer le mouvement des planètes et les lois de la gravitation.
+
+        • Illustration 2 :
+        • Isaac Newton : “Je ne forge pas d’hypothèses.” (dans Philosophiæ Naturalis Principia Mathematica).
+        • Explication : Newton insiste sur la rigueur de la méthode scientifique, qui évite les spéculations en s’appuyant sur l’observation et l’expérimentation.
+        • Exemple : Les lois du mouvement et de la gravité ont permis de comprendre des phénomènes célestes complexes.
+
+    2. La capacité de la science à résoudre des problèmes pratiques
+
+        • Idée : La science ne se limite pas à la théorie, elle répond aussi aux besoins concrets de l’humanité.
+        • Illustration 1 :
+        • Louis Pasteur : “La science est le plus beau présent fait à l’humanité.”
+        • Explication : Par ses découvertes sur les microbes, Pasteur a révolutionné la médecine et prouvé que la science peut améliorer la condition humaine.
+        • Exemple : La vaccination a permis d’éradiquer certaines maladies mortelles.
+
+        • Illustration 2 :
+        • Claude Bernard : “Le savant n’affirme rien qu’il ne puisse démontrer.” (dans Introduction à l’étude de la médecine expérimentale).
+        • Explication : La rigueur expérimentale permet à la science d’offrir des solutions fiables et applicables.
+        • Exemple : Les avancées en génétique ont permis de développer des thérapies ciblées contre certaines maladies.
+ 
+II. Pourtant, certaines questions semblent résister à l’analyse scientifique. La science, bien qu’efficace, ne parvient pas toujours à répondre à des questions d’ordre métaphysique, éthique ou existentiel.
+
+    1. Les limites techniques et méthodologiques de la science
+
+        • Idée : Certaines réalités sont trop complexes ou incertaines pour être entièrement élucidées.
+        • Illustration 1 :
+        • Werner Heisenberg : “On ne peut connaître simultanément la position et la vitesse d’une particule.” (dans Le Principe d’incertitude).
+        • Explication : Heisenberg démontre que certaines limites sont inhérentes à la nature même des phénomènes étudiés.
+        • Exemple : L’étude du comportement des particules subatomiques illustre les limites techniques de la science.
+
+        • Illustration 2 :
+        • Kurt Gödel : “Il existe des propositions vraies mais indémontrables.” (dans Théorème d’incomplétude).
+        • Explication : Gödel montre que même les mathématiques, pourtant considérées comme exactes, comportent des limites internes.
+        • Exemple : Les paradoxes logiques soulignent que certaines vérités échappent à la démonstration scientifique.
+
+    2. Les questions existentielles et morales échappent souvent à la science
+
+        • Idée : Les interrogations sur le sens de la vie ou les choix éthiques ne relèvent pas toujours du domaine scientifique.
+        • Illustration 1 :
+        • Emmanuel Kant : “La raison pure ne peut répondre aux questions du cœur.” (dans Critique de la raison pure).
+        • Explication : Kant souligne que certaines questions métaphysiques échappent à l’analyse rationnelle et expérimentale.
+        • Exemple : La question de l’existence de Dieu dépasse les capacités de la science.
+
+        • Illustration 2 :
+        • Blaise Pascal : “Le cœur a ses raisons que la raison ignore.” (dans Pensées).
+        • Explication : Pascal montre que les émotions, la foi ou la morale ne peuvent être pleinement expliquées par la science.
+        • Exemple : La science ne peut pas définir objectivement le bonheur ou la justice.
+ 
+III. La science ne peut répondre à tout, mais cette limite est une force plutôt qu’une faiblesse. Reconnaître ses propres limites permet à la science de progresser de manière plus rigoureuse.
+
+    1. L’ignorance reconnue stimule la recherche
+
+        • Idée : La science avance précisément parce qu’elle admet son incomplétude.
+        • Illustration 1 :
+        • Karl Popper : “Une théorie scientifique doit être falsifiable.” (dans La logique de la découverte scientifique).
+        • Explication : Popper montre que la science se construit en acceptant ses erreurs et en cherchant constamment à s’améliorer.
+        • Exemple : La théorie de la relativité a corrigé les lacunes de la physique classique.
+
+        • Illustration 2 :
+        • Gaston Bachelard : “L’erreur est la condition du progrès.” (dans La formation de l’esprit scientifique).
+        • Explication : Bachelard insiste sur l’idée que reconnaître les échecs et les zones d’ombre permet à la science d’évoluer.
+        • Exemple : La recherche sur les maladies neurodégénératives repose sur l’identification des limites actuelles de nos connaissances.
+ 
+Conclusion
+1. Synthèse
+• La science est un outil puissant qui a prouvé sa capacité à expliquer le monde et à améliorer la condition humaine. Cependant, elle rencontre aussi des limites face à certaines réalités techniques, morales ou existentielles.
+2. Réponse à la problématique
+• Il semble donc que la science ne puisse répondre à tout, mais c’est en reconnaissant ses limites qu’elle progresse.
+3. Ouverture
+• Cela invite à réfléchir à la place des autres formes de savoirs, comme la philosophie ou l’art, dans notre quête de compréhension du monde.

@@ -1,0 +1,81 @@
+Introduction 
+
+1. Amorce : La raison est souvent considérée comme le fondement du savoir et du progrès intellectuel. Depuis l’Antiquité, les philosophes ont cherché à démontrer que la vérité ne peut être atteinte qu’à travers un raisonnement rigoureux et logique. Pourtant, certaines expériences humaines — telles que les émotions, la foi ou l’intuition — semblent révéler des vérités qui échappent à la seule rationalité.
+
+2. Définition des termes :
+
+    • Vérité : Connaissance ou jugement en adéquation avec la réalité.
+    • Raison : Faculté de penser de manière logique et cohérente, en s’appuyant sur des principes démontrables.
+    • Vérités qui échappent à la raison : Vérités qui ne peuvent être pleinement comprises, démontrées ou expliquées par des raisonnements logiques.
+
+3. Problématisation (reformulée) : La raison semble être l’outil privilégié pour accéder à la vérité. Toutefois, peut-il exister des vérités qui, par leur nature même, échappent à son emprise ?
+
+4. Annonce du plan : Nous verrons d’abord que la raison est un moyen essentiel pour atteindre la vérité. Ensuite, nous montrerons que certaines vérités peuvent néanmoins échapper à son pouvoir explicatif. Enfin, nous nous interrogerons sur les limites de cette opposition entre raison et vérités non rationnelles.
+ 
+I. La raison est le moyen principal d’accès à la vérité
+
+    1. La raison permet de distinguer le vrai du faux
+
+        • Illustration 1 : Platon, La République – Platon insiste sur le rôle de la dialectique comme méthode rationnelle pour parvenir à la vérité.
+        • Citation : « Ce n’est qu’à travers le raisonnement que l’âme peut atteindre la vérité ».
+        • Explication : La pensée rationnelle, fondée sur la logique et la démonstration, permet d’éliminer les illusions et les opinions trompeuses.
+
+        • Illustration 2 : Descartes, Discours de la méthode – Descartes défend la méthode du doute cartésien, qui consiste à remettre en question toutes les croyances afin de fonder les vérités sur des principes certains.
+        • Citation :« Je pense, donc je suis ».
+        • Exemple : Les sciences expérimentales, qui reposent sur l’observation et le raisonnement logique, ont permis d’établir des vérités objectives et universelles (comme les lois de Newton en physique).
+
+    2. La raison permet de donner un fondement universel aux vérités morales et politiques
+
+        • Illustration 1 : Kant, Critique de la raison pratique – Kant affirme que les principes moraux universels doivent être fondés sur la raison, seule capable d’éclairer la notion de devoir.
+        • Citation : « Agis uniquement d’après la maxime qui fait que tu puisses vouloir en même temps qu’elle devienne une loi universelle ».
+        • Explication : La raison permet ici d’établir des normes universelles fondées sur la logique et non sur les croyances ou les émotions.
+
+        • Illustration 2 : Spinoza, L’Éthique – Spinoza montre que la connaissance rationnelle des causes permet de comprendre le monde et d’atteindre la sagesse.
+        • Exemple : Le droit moderne repose sur des principes rationnels visant à garantir l’équité et la justice, indépendamment des croyances individuelles.
+ 
+II. Certaines vérités semblent échapper à la raison
+
+    1. Les vérités issues de l’intuition et des sentiments
+
+        • Illustration 1 : Pascal, Pensées – Pascal distingue l’ordre du « cœur » de celui de la raison, affirmant que certaines vérités profondes sont accessibles uniquement par l’intuition.
+        • Citation : « Le cœur a ses raisons que la raison ne connaît point ».
+        • Explication : Pascal souligne que des vérités existentielles, comme l’amour ou la foi, échappent à toute démonstration logique.
+
+        • Illustration 2 : Bergson, L’Évolution créatrice – Bergson défend l’idée que l’intuition permet de saisir le réel dans sa globalité, là où la raison le fige dans des concepts rigides.
+        • Exemple : L’expérience du beau ou du sublime, ressentie dans l’art ou la nature, est souvent difficile à expliquer de manière purement rationnelle.
+
+    2. Les vérités métaphysiques et religieuses
+
+        • Illustration 1 : Saint Augustin, Confessions – Augustin montre que certaines vérités spirituelles dépassent la raison et ne peuvent être atteintes que par la foi.
+        • Citation : « Crois pour comprendre ».
+        • Explication : La quête de Dieu, du sens de la vie ou de l’infini échappe aux démonstrations strictement rationnelles.
+
+        • Illustration 2 : Kierkegaard, Crainte et tremblement – Kierkegaard insiste sur l’expérience intérieure et le « saut de la foi » pour accéder à certaines vérités existentielles profondes.
+        • Exemple : La question du sens de la vie ou du destin humain suscite souvent des réponses irrationnelles ou symboliques.
+ 
+III. Raison et vérités non rationnelles sont-elles réellement opposées ?
+
+    1. La raison peut reconnaître ses propres limites
+
+        • Illustration 1 : Kant, Critique de la raison pure – Kant affirme que la raison ne peut démontrer certaines questions métaphysiques (comme l’existence de Dieu), mais elle peut établir les limites de ce qu’elle est capable de comprendre.
+        • Citation : « La raison humaine a cette destinée singulière qu’elle se voit accablée de questions qu’elle ne peut éluder ».
+        • Explication : La raison peut ainsi reconnaître qu’elle n’a pas réponse à tout sans pour autant perdre sa légitimité.
+
+        • Illustration 2 : Wittgenstein, Tractatus logico-philosophicus – Wittgenstein affirme que certaines vérités (comme celles relatives à l’éthique ou au sens de la vie) ne peuvent être exprimées que par le silence ou par des formes symboliques.
+        • Exemple : Les grandes œuvres littéraires et artistiques révèlent parfois des vérités profondes que la raison seule ne saurait pleinement exprimer.
+
+    2. La complémentarité entre raison et expériences non rationnelles
+
+        • Illustration 1 : Hegel, Phénoménologie de l’Esprit – Hegel montre que la vérité naît de la dialectique, où la raison progresse en intégrant les contradictions et les expériences sensibles.
+        • Citation : « Le vrai est le tout ».
+
+        • Illustration 2 : Merleau-Ponty, Phénoménologie de la perception – Merleau-Ponty insiste sur l’importance du corps et de la perception dans la construction de notre rapport au monde.
+        • Exemple : La méditation, bien que difficilement explicable de manière rationnelle, est reconnue pour ses effets positifs sur la concentration et le bien-être.
+ 
+Conclusion 
+
+1. Récapitulatif : La raison est sans doute le moyen le plus fiable d’accéder à certaines vérités démontrables et universelles. Toutefois, certaines vérités — comme celles relatives aux émotions, à la foi ou à l’expérience esthétique — semblent échapper à son emprise.
+
+2. Réponse à la problématique : Il existe donc bien des vérités qui échappent à la raison, mais cela ne signifie pas que ces vérités soient irrationnelles : elles relèvent d’autres modes de connaissance, comme l’intuition ou l’expérience intérieure.
+
+3. Ouverture : Si la raison ne peut tout expliquer, cela invite à s’interroger sur les autres formes de connaissance capables de nous éclairer sur les mystères du monde et de l’existence humaine.

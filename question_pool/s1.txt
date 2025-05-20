@@ -1,0 +1,100 @@
+Introduction
+1. Amorce : Dans Discours de la méthode, Descartes affirme : “Pour atteindre la vérité, il faut rejeter comme faux tout ce qui peut être mis en doute.” Cette exigence de rigueur intellectuelle illustre l’une des conditions essentielles d’une démarche scientifique : le doute méthodique.
+2. Entrée dans le sujet : La science se distingue des croyances ou des opinions par sa volonté d’expliquer rationnellement et objectivement les phénomènes du monde. Cependant, cette démarche repose sur des principes et des méthodes bien définis.
+
+3. Définition des termes
+
+    • Démarche : Ensemble structuré d’étapes et de méthodes visant à produire un savoir.
+    • Scientifique : Relatif à une connaissance fondée sur des preuves vérifiables, une méthode rigoureuse et des critères objectifs.
+
+4. Opposition des idées
+
+    • Certains philosophes insistent sur la nécessité de la rigueur méthodologique et de l’observation rigoureuse pour fonder la science.
+    • D’autres montrent que la science repose aussi sur des choix conceptuels et des limites inhérentes à l’esprit humain.
+
+5. Problématique (reformulée) : Quelles sont les conditions nécessaires pour qu’une démarche puisse être considérée comme véritablement scientifique ?
+
+6. Enjeu : Cette réflexion soulève la question du statut de la science face aux autres formes de savoir et met en lumière les exigences de la pensée rationnelle.
+
+7. Annonce du plan : Nous verrons d’abord que la démarche scientifique exige des méthodes rigoureuses et objectives. Ensuite, nous soulignerons les limites possibles de cette exigence. Enfin, nous étudierons en quoi certaines disciplines contestées, comme la psychanalyse, posent la question des frontières du savoir scientifique.
+ 
+Développement
+
+I. Une démarche est scientifique si elle repose sur une méthode rigoureuse et rationnelle. La science se distingue par des procédures précises visant à garantir l’objectivité et la véracité des résultats.
+
+    1. La nécessité du doute et de la méthode pour atteindre la vérité
+
+        • Idée : Une démarche scientifique commence par le rejet des croyances infondées et la mise en place d’une méthode rigoureuse.
+        • Illustration 1 :
+        • René Descartes : “Ne recevoir jamais aucune chose pour vraie que je ne la connusse évidemment être telle.” (dans Discours de la méthode).
+        • Explication : Descartes souligne que la science doit s’appuyer sur des principes clairs et distincts. Son doute méthodique permet d’éliminer les erreurs et d’assurer la certitude du savoir.
+        • Exemple : En mathématiques, les démonstrations reposent sur des enchaînements logiques irréfutables.
+
+        • Illustration 2 :
+        • Emmanuel Kant : “La science est un savoir nécessaire et universel.” (dans Critique de la raison pure).
+        • Explication : Kant distingue la science véritable des simples opinions en insistant sur la nécessité de formuler des lois universelles fondées sur l’expérience et la raison.
+        • Exemple : La loi de la gravitation universelle de Newton repose sur une formalisation mathématique rigoureuse et vérifiable.
+
+    2. L’importance de l’expérience et de l’observation
+
+        • Idée : La science exige des faits vérifiables et reproductibles.
+        • Illustration 1 :
+        • Francis Bacon : “La science se fonde sur l’observation patiente et l’expérimentation rigoureuse.” (dans Novum Organum).
+        • Explication : Bacon défend l’empirisme, qui fonde le savoir sur l’expérience sensible et l’observation méthodique.
+        • Exemple : En biologie, la vérification des hypothèses par l’expérience garantit la validité des résultats.
+
+        • Illustration 2 :
+        • Claude Bernard : “L’expérience est le seul juge de la vérité scientifique.” (dans Introduction à l’étude de la médecine expérimentale).
+        • Explication : Bernard insiste sur la nécessité d’une expérimentation rigoureuse pour vérifier les hypothèses.
+        • Exemple : Les protocoles médicaux suivent cette logique, avec des essais cliniques contrôlés.
+ 
+II. Une démarche scientifique doit également répondre à des exigences de falsifiabilité et de vérification. Toute théorie scientifique doit pouvoir être réfutée ou validée par l’expérience.
+
+    1. La falsifiabilité comme critère de scientificité
+
+        • Idée : Une hypothèse scientifique doit pouvoir être mise à l’épreuve.
+        • Illustration 1 :
+        • Karl Popper : “Une théorie qui ne peut être réfutée n’est pas scientifique.” (dans La logique de la découverte scientifique).
+        • Explication : Popper affirme que la science progresse en proposant des hypothèses audacieuses, mais réfutables. Si une théorie ne peut être confrontée à des faits pouvant la contredire, elle ne relève pas du champ scientifique.
+        • Exemple : La théorie de la relativité d’Einstein a gagné en crédibilité grâce à des expériences capables de prouver — ou d’infirmer — ses prédictions.
+
+        • Illustration 2 :
+        • Gaston Bachelard : “L’esprit scientifique se forme par dépassement des erreurs.” (dans La formation de l’esprit scientifique).
+        • Explication : Bachelard montre que l’erreur est constitutive du progrès scientifique, car elle permet de remettre en question les certitudes.
+        • Exemple : En chimie, l’évolution des modèles atomiques illustre ce processus.
+
+    2. Les sciences humaines et la difficulté de répondre aux exigences scientifiques
+
+        • Idée : Certaines disciplines ont du mal à satisfaire les critères stricts de la démarche scientifique.
+        • Illustration 1 :
+        • Sigmund Freud : “L’inconscient est structuré comme un langage.” (dans L’interprétation des rêves).
+        • Explication : Bien que la psychanalyse repose sur des concepts complexes, elle ne répond pas toujours aux critères de vérifiabilité posés par Popper.
+        • Exemple : Les théories psychanalytiques sont parfois critiquées pour leur caractère non réfutable.
+
+        • Illustration 2 :
+        • Jean-Paul Sartre : “La conscience est toujours conscience de quelque chose.” (dans L’Être et le Néant).
+        • Explication : La phénoménologie s’appuie sur l’analyse subjective des expériences, ce qui complexifie sa dimension scientifique.
+        • Exemple : L’étude des émotions repose davantage sur l’interprétation que sur des preuves strictement mesurables.
+ 
+III. La science a aussi ses limites : peut-elle prétendre à une vérité absolue ? Si la science progresse par hypothèses et vérifications, elle ne peut toutefois prétendre à une connaissance définitive du réel.
+
+    1. Les limites du savoir humain face à la complexité du monde
+
+        • Idée : La science ne peut répondre à toutes les questions existentielles ou métaphysiques.
+        • Illustration 1 :
+        • Friedrich Nietzsche : “La vérité est une illusion dont on a oublié qu’elle en est une.” (dans Le Gai Savoir).
+        • Explication : Nietzsche critique l’idée d’une vérité absolue et souligne les limites du rationalisme scientifique.
+        • Exemple : La physique quantique révèle des phénomènes qui échappent à notre logique ordinaire.
+
+        • Illustration 2 :
+        • Edmund Husserl : “La science oublie souvent la subjectivité qui fonde la conscience.” (dans La Crise des sciences européennes).
+        • Explication : Husserl insiste sur la nécessité de réintégrer la dimension humaine dans la quête de vérité.
+        • Exemple : La psychologie cognitive intègre désormais des approches plus ouvertes sur la subjectivité.
+ 
+Conclusion
+
+1. Synthèse : Une démarche est scientifique si elle repose sur des méthodes rigoureuses, une observation précise et la possibilité de vérifier ou de réfuter ses hypothèses.
+
+2. Réponse à la problématique : Cependant, certaines disciplines comme la psychanalyse ou la philosophie posent la question des frontières du savoir scientifique.
+
+3. Ouverture : Dès lors, il est légitime de s’interroger sur les liens entre science et vérité ultime : la science peut-elle prétendre répondre à toutes les questions humaines ?

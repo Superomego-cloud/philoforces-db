@@ -1,0 +1,110 @@
+Introduction
+
+1. Amorce : Gaston Bachelard affirme dans La formation de l’esprit scientifique que “La science, en multipliant ses conquêtes, ne cesse de repousser ses propres limites.” Cette citation souligne à la fois la puissance de la recherche scientifique et son caractère potentiellement infini.
+
+2. Entrée dans le sujet : Depuis les Lumières, la recherche scientifique s’est imposée comme un moteur du progrès humain. Pourtant, certaines découvertes ou ambitions scientifiques soulèvent des débats éthiques, techniques et philosophiques.
+
+3. Définitions des termes
+
+    • Recherche scientifique : Démarche rationnelle et rigoureuse visant à comprendre les phénomènes naturels et humains.
+    • Limites : Frontières au-delà desquelles la recherche devient impossible, dangereuse ou moralement problématique.
+
+4. Opposition des idées
+
+    • D’un côté, certains considèrent que la science ne rencontre aucune barrière infranchissable et que ses limites ne sont que temporaires.
+    • D’un autre côté, la science semble contrainte par des limites éthiques, humaines ou techniques.
+
+5. Problématique (reformulée) : La recherche scientifique peut-elle réellement repousser toutes ses limites ou doit-elle reconnaître certaines frontières infranchissables ?
+
+6. Enjeu : Cette réflexion interroge notre conception du progrès et les responsabilités des scientifiques face à leurs découvertes.
+
+7. Annonce du plan : Nous verrons d’abord que la science semble capable de repousser constamment ses limites. Ensuite, nous montrerons que ces progrès se heurtent à des obstacles techniques et éthiques. Enfin, nous examinerons l’idée selon laquelle certaines limites sont nécessaires pour préserver l’humanité et son environnement.
+ 
+Développement
+
+I. La recherche scientifique semble pouvoir repousser sans cesse ses propres limites. La science, en constante évolution, repousse ses frontières par des découvertes et des innovations majeures.
+
+    1. Les progrès constants de la recherche scientifique
+
+        • Idée : La science avance en surmontant ses propres obstacles.
+        • Illustration 1 :
+        • Francis Bacon : “La science est la puissance même.” (dans Novum Organum).
+        • Explication : Bacon insiste sur la capacité infinie de la science à découvrir les lois du monde naturel grâce à l’expérience et à l’observation.
+        • Exemple : La physique quantique a permis de dépasser les limites de la physique classique.
+
+        • Illustration 2 :
+        • Karl Popper : “La science progresse en corrigeant ses erreurs.” (dans La logique de la découverte scientifique).
+        • Explication : Popper montre que les théories scientifiques ne sont jamais définitives ; elles évoluent en se confrontant aux faits.
+        • Exemple : La théorie de la relativité a corrigé certaines limites de la mécanique newtonienne.
+
+    2. L’innovation technologique au service du progrès scientifique
+
+        • Idée : L’évolution des outils et des méthodes permet d’accéder à des domaines jusqu’alors inconnus.
+        • Illustration 1 :
+        • Galilée : “Le livre de la nature est écrit en langage mathématique.” (dans L’Essayeur).
+        • Explication : Galilée souligne que l’innovation méthodologique (observation et expérimentation) est la clé pour dépasser les limites du savoir.
+        • Exemple : Les télescopes modernes permettent aujourd’hui d’observer des galaxies lointaines.
+
+        • Illustration 2 :
+        • Claude Bernard : “L’expérience est le seul juge de la vérité scientifique.” (dans Introduction à l’étude de la médecine expérimentale).
+        • Explication : Grâce à l’expérimentation, de nombreuses maladies autrefois incurables sont aujourd’hui traitables.
+        • Exemple : La découverte de la pénicilline a révolutionné la médecine.
+ 
+II. Pourtant, la recherche scientifique rencontre des limites techniques et éthiques. Malgré sa puissance, la science se heurte à des obstacles qu’elle ne peut toujours surmonter.
+
+    1. Les limites techniques et humaines
+
+        • Idée : Certaines réalités restent hors de portée en raison de contraintes matérielles ou cognitives.
+        • Illustration 1 :
+        • Heisenberg : “On ne peut jamais connaître avec précision et simultanément la position et la vitesse d’une particule.” (dans Le principe d’incertitude).
+        • Explication : Ce principe montre que certaines limites sont inhérentes à la nature même des phénomènes étudiés.
+        • Exemple : La physique quantique présente des zones d’incertitude que la science ne peut dépasser.
+
+        • Illustration 2 :
+        • Henri Poincaré : “Le hasard est le maître du monde.” (dans Science et méthode).
+        • Explication : Poincaré souligne que certaines évolutions naturelles sont imprévisibles, limitant ainsi la portée des sciences exactes.
+        • Exemple : La météorologie atteint ses limites dans la prévision à long terme.
+
+    2. Les limites éthiques
+
+        • Idée : Certaines avancées scientifiques posent des problèmes moraux.
+        • Illustration 1 :
+        • Hans Jonas : “La science ne peut ignorer les conséquences de ses découvertes.” (dans Le Principe responsabilité).
+        • Explication : Jonas insiste sur la nécessité d’une réflexion éthique pour éviter les dérives du progrès technique.
+        • Exemple : Les manipulations génétiques soulèvent des débats moraux.
+
+        • Illustration 2 :
+        • Albert Einstein : “La science sans conscience n’est que ruine de l’âme.” (reprenant une idée de Rabelais).
+        • Explication : Einstein rappelle que les avancées scientifiques peuvent être dangereuses si elles sont dépourvues de réflexion éthique.
+        • Exemple : La bombe atomique illustre les dérives possibles d’une science détachée de toute considération morale.
+    
+III. Certaines limites sont nécessaires pour préserver l’humanité et son environnement. Pour garantir un progrès bénéfique à l’humanité, il est indispensable d’imposer certaines limites à la recherche scientifique.
+
+    1. La nécessité d’une régulation scientifique
+
+        • Idée : Les avancées scientifiques doivent être encadrées pour éviter les abus.
+        • Illustration 1 :
+        • Jürgen Habermas : “La démocratie doit encadrer les avancées techniques.” (dans L’avenir de la nature humaine).
+        • Explication : Habermas défend l’idée que les sociétés démocratiques doivent fixer des limites aux sciences pour éviter les dérives.
+        • Exemple : Les lois encadrant la recherche sur les cellules souches.
+
+        • Illustration 2 :
+        • Paul Ricoeur : “L’éthique est la science du juste milieu.” (dans Soi-même comme un autre).
+        • Explication : Ricoeur souligne que la morale est nécessaire pour guider les choix scientifiques.
+        • Exemple : Les expérimentations médicales sur l’homme sont strictement encadrées pour éviter les abus.
+
+    2. Le respect de l’environnement et des générations futures
+
+        • Idée : Le progrès scientifique doit préserver l’équilibre écologique et les générations futures.
+        • Illustration 1 :
+        • Arne Næss : “L’écologie profonde implique de respecter les limites naturelles.” (dans Ecology, Community and Lifestyle).
+        • Explication : Næss insiste sur la nécessité de modérer le progrès scientifique pour éviter la destruction de l’environnement.
+        • Exemple : Les débats autour des organismes génétiquement modifiés (OGM) illustrent cette préoccupation.
+ 
+Conclusion
+
+1. Synthèse : La recherche scientifique semble capable de repousser sans cesse ses propres limites, mais elle se heurte à des contraintes techniques et éthiques qu’elle ne peut ignorer.
+
+2. Réponse à la problématique : Ainsi, la recherche scientifique ne peut être totalement illimitée : certaines frontières sont imposées par la nature des choses, d’autres doivent être définies pour garantir la sécurité et l’éthique.
+
+3. Ouverture : Cette réflexion soulève une question cruciale : le progrès scientifique est-il nécessairement synonyme de progrès moral et social ?

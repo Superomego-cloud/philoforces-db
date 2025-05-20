@@ -1,0 +1,102 @@
+Introduction
+
+1. Amorce :  Depuis l’Antiquité, les avancées scientifiques ont souvent été accompagnées de progrès techniques majeurs. Des inventions comme le télescope de Galilée ou le microscope de Leeuwenhoek ont révolutionné la compréhension du monde.
+
+2. Problématisation (reformulée) : Le progrès scientifique semble intimement lié aux innovations techniques qui permettent de mieux observer, expérimenter et vérifier les hypothèses. Toutefois, la science ne se limite-t-elle pas parfois à une évolution conceptuelle indépendante des outils techniques ?
+
+3. Définitions des termes
+
+    • Progrès scientifique : Accumulation de connaissances visant à expliquer les phénomènes naturels et humains.
+    • Évolution des techniques : Développement d’outils, d’appareils ou de méthodes permettant d’agir sur le réel.
+
+4. Enjeu : Comprendre si le progrès scientifique dépend nécessairement de l’évolution des techniques ou si la science peut progresser indépendamment des innovations technologiques.
+
+5. Annonce du plan : Nous verrons d’abord que le progrès scientifique repose en grande partie sur l’évolution des techniques. Puis nous montrerons que certaines avancées scientifiques relèvent davantage de la réflexion théorique. Enfin, nous étudierons les interactions réciproques entre progrès scientifique et technique.
+ 
+Développement
+
+I. Le progrès scientifique repose en grande partie sur l’évolution des techniques. De nombreux progrès scientifiques n’auraient pas été possibles sans des innovations techniques majeures.
+
+    1. Les techniques permettent d’explorer l’invisible et de valider les hypothèses scientifiques
+
+        • Idée : L’évolution des instruments permet de dépasser les limites des sens et d’accéder à de nouvelles réalités.
+        • Illustration 1 :
+        • Galilée : “La nature est écrite en langage mathématique, et ses caractères sont des figures géométriques.” (dans Le Messager des étoiles).
+        • Explication : Grâce à son télescope perfectionné, Galilée observe les satellites de Jupiter et confirme la théorie héliocentrique de Copernic.
+        • Exemple : Sans cette amélioration technique, ses découvertes astronomiques auraient été impossibles.
+
+        • Illustration 2 :
+        • Antonie van Leeuwenhoek : “J’ai découvert un monde dans une goutte d’eau.” (dans Lettres sur les animalcules).
+        • Explication : Avec son microscope perfectionné, Leeuwenhoek observe pour la première fois des micro-organismes, ouvrant ainsi la voie à la microbiologie.
+        • Exemple : Cette innovation a permis à Pasteur de démontrer ultérieurement la théorie des germes.
+
+    2. Les innovations techniques favorisent l’expérimentation scientifique
+
+        • Idée : De nouveaux dispositifs expérimentaux ont permis de tester et de confirmer des théories.
+        • Illustration 1 :
+        • Lavoisier : “Rien ne se perd, rien ne se crée, tout se transforme.” (dans Traité élémentaire de chimie).
+        • Explication : Grâce à des balances extrêmement précises, Lavoisier démontre la conservation de la masse lors des réactions chimiques.
+        • Exemple : Cette avancée marque la naissance de la chimie moderne.
+
+        • Illustration 2 :
+        • Marie Curie : “L’étude des rayons uraniques a ouvert un domaine de recherches inattendu.” (dans Recherches sur les substances radioactives).
+        • Explication : L’utilisation d’électromètres sophistiqués permet à Marie Curie de mesurer la radioactivité et de découvrir le polonium et le radium.
+        • Exemple : Ces avancées ont bouleversé la physique nucléaire et la médecine.
+ 
+II. Toutefois, certaines avancées scientifiques relèvent davantage d’une démarche théorique indépendante des techniques. Le progrès scientifique peut aussi être le fruit d’une réflexion conceptuelle sans innovation matérielle immédiate.
+
+    1. Les avancées théoriques précèdent parfois les innovations techniques
+
+        • Idée : Certaines théories ont été élaborées avant de pouvoir être vérifiées techniquement.
+        • Illustration 1 :
+        • Albert Einstein : “L’imagination est plus importante que le savoir.” (dans Comment je vois le monde).
+        • Explication : Einstein développe la théorie de la relativité sans s’appuyer sur de nouvelles techniques expérimentales. Ses idées reposent sur des raisonnements abstraits.
+        • Exemple : Ce n’est que bien plus tard, avec des horloges atomiques et des satellites, que les effets de la relativité générale ont été vérifiés.
+
+        • Illustration 2 :
+        • Charles Darwin : “Les espèces ne sont pas immuables.” (dans L’Origine des espèces).
+        • Explication : Darwin élabore sa théorie de l’évolution à partir d’observations biologiques et de raisonnements comparatifs, sans outils techniques avancés.
+        • Exemple : Ses hypothèses ont été validées bien après par les découvertes en génétique.
+
+    2. Certaines disciplines progressent principalement par la réflexion conceptuelle
+
+        • Idée : Les mathématiques, la logique ou la philosophie des sciences progressent souvent indépendamment des outils techniques.
+        • Illustration 1 :
+        • René Descartes : “Le bon sens est la chose du monde la mieux partagée.” (dans Discours de la méthode).
+        • Explication : Descartes élabore les fondements de la géométrie analytique et du rationalisme sans outils techniques particuliers.
+        • Exemple : Sa méthode influencera durablement les sciences modernes.
+
+        • Illustration 2 :
+        • Kurt Gödel : “Aucune théorie ne peut démontrer sa propre cohérence.” (dans Théorème d’incomplétude).
+        • Explication : Gödel démontre par une démarche purement logique les limites des systèmes formels, sans recourir à des innovations techniques.
+        • Exemple : Ses travaux ont révolutionné la logique et les fondements des mathématiques.
+ 
+III. Le progrès scientifique et l’évolution des techniques s’influencent mutuellement. Si les techniques permettent souvent le progrès scientifique, la science guide également le développement technique.
+
+    1. Le progrès scientifique oriente les innovations techniques
+
+        • Idée : Les découvertes scientifiques conduisent souvent à des avancées techniques.
+        • Illustration 1 :
+        • James Clerk Maxwell : “Les équations électromagnétiques prédisent l’existence d’ondes électromagnétiques.” (dans A Treatise on Electricity and Magnetism).
+        • Explication : Ses travaux sur l’électromagnétisme ont ouvert la voie à l’invention de la radio et des télécommunications.
+        • Exemple : Ces découvertes ont transformé les sociétés modernes.
+
+        • Illustration 2 :
+        • Louis Pasteur : “Le germe n’est rien, le terrain est tout.” (dans Discours à l’Académie des sciences).
+        • Explication : Ses découvertes sur les microbes ont permis le développement de techniques de stérilisation et de vaccination.
+        • Exemple : Ces avancées ont révolutionné la médecine et l’hygiène.
+
+    2. Les innovations techniques ouvrent de nouveaux champs d’exploration scientifique
+
+        • Idée : Certains outils techniques permettent d’explorer des domaines insoupçonnés.
+        • Illustration 1 : L’invention de l’accélérateur de particules a permis des avancées majeures en physique quantique.
+
+        • Illustration 2 : L’invention du séquenceur ADN a révolutionné la biologie moléculaire.
+ 
+Conclusion
+
+1. Synthèse : Le progrès scientifique et l’évolution des techniques sont étroitement liés, bien que certaines avancées théoriques puissent précéder les innovations techniques.
+
+2. Réponse au problème : Si les techniques jouent un rôle fondamental dans l’expérimentation et la validation des théories scientifiques, la science peut aussi progresser grâce à la seule réflexion conceptuelle.
+
+3. Ouverture : Cette relation étroite entre science et technique soulève la question de l’impact éthique et social des avancées technologiques.
